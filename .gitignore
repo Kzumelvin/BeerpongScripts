@@ -8,5 +8,6 @@ __pycache__/
 venv/
 ini/init.ini
 .idea/
+/results
 
 
