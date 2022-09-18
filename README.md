@@ -1,4 +1,4 @@
 # BeerpongScripts
 
-##Documentation
-###[Elo Berechnung](elo.beerpongturnier.de)
+## Documentation
+### [Elo Berechnung](elo.beerpongturnier.de)
