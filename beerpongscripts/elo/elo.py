@@ -1,9 +1,11 @@
+import math as m
 """ELO Funktionen zur Berechnung der Elozahl für das BPT
 
 
 """
+Q = 500
 
-def Ewert_A(elo_A, elo_B, q=1400):
+def Ewert_A(elo_A, elo_B, q=Q):
     """
     Parameters
     ----------
@@ -22,7 +24,7 @@ def Ewert_A(elo_A, elo_B, q=1400):
         x = elo_B-elo_A
 
     RES = 1 / (1 + (10 ** (x / q)))
-    print("B:",elo_B, "A:", elo_A, "X:", x, "Chance A:", RES)
+    print("A:", elo_A, "B:",elo_B,  "X:", x, "Chance A:", RES)
 
     return RES
 
@@ -38,3 +40,13 @@ def new_Elo(elo_Eigen, elo_Gegner, spiele_eigen, punkte):
     k = k_factor(elo_Eigen, spiele_eigen)
     e_wert = Ewert_A(elo_Eigen, elo_Gegner)
     return int(elo_Eigen + k*(punkte - e_wert))
+
+def elo_for_max_points(elo_Eigen, spiele_eigen):
+    k = k_factor(elo_Eigen, spiele_eigen)
+    Ewert = 1/(2*k)
+    Y = m.log10(abs(1/Ewert-1))
+    return int(Q*Y)
+
+if __name__ == '__main__':
+    print(new_Elo(1759, 1000, 40, 1))
+    print(elo_for_max_points(1000, 40))
