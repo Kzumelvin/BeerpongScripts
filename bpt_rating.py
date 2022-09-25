@@ -14,6 +14,8 @@ config.read("./beerpongscripts/ini/init.ini")
 api_key = config.get("AIRTABLE", "api_key")
 base_id = config.get("AIRTABLE", "base_id")
 bpt = BeerpongStats(api_key, base_id)
+#Update Airtable
+AIRTABLE = False
 
 # Rating Setup
 playerDict = {}
@@ -214,8 +216,9 @@ with open("./results/elo_gesamt.json", "w") as jsonfile:
 # Updating airtable
 for p in playerDict:
     print(p)
-    # bpt.setPlayerField(p, {"Elo": playerDict[p]["Elo"][-1]})
-    # bpt.setPlayerField(p, {"Max_Elo": playerDict[p]["Max_Elo"]})
+    if AIRTABLE:
+        bpt.setPlayerField(p, {"Elo": playerDict[p]["Elo"][-1]})
+        bpt.setPlayerField(p, {"Max_Elo": playerDict[p]["Max_Elo"]})
 
 # Excel, Numpy and Pandas
 elo_array = []
@@ -232,6 +235,7 @@ for p in playerDict:
         colums_array = playerDict[p]["Elo"]
 
 df = pd.DataFrame(elo_array, index=index_array)
+df = df.sort_values(by=[0], ascending=False)
 print(df)
 
 df.to_excel("./results/test.xlsx")

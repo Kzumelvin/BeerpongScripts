@@ -3,9 +3,9 @@ import math as m
 
 
 """
-Q = 500
+Q = 700
 
-def Ewert_A(elo_A, elo_B, q=Q):
+def Ewert_A(elo_A, elo_B):
     """
     Parameters
     ----------
@@ -16,17 +16,11 @@ def Ewert_A(elo_A, elo_B, q=Q):
     400 : Fixzahl
         Abstufung der Elo-Skala
     """
-    if elo_B-elo_A > q:
-        x = q
-    elif elo_B-elo_A < -q:
-        x = -q
-    else:
-        x = elo_B-elo_A
 
-    RES = 1 / (1 + (10 ** (x / q)))
-    print("A:", elo_A, "B:",elo_B,  "X:", x, "Chance A:", RES)
+    RES2 = (10**(elo_A/Q))/((10**(elo_A/Q))+(10**(elo_B/Q)))
+    print("A:", elo_A, "B:",elo_B,  "X:", elo_B-elo_A, "Chance A:", RES2)
 
-    return RES
+    return RES2
 
 def k_factor(elo, spiele):
     if spiele<30:
@@ -44,9 +38,9 @@ def new_Elo(elo_Eigen, elo_Gegner, spiele_eigen, punkte):
 def elo_for_max_points(elo_Eigen, spiele_eigen):
     k = k_factor(elo_Eigen, spiele_eigen)
     Ewert = 1/(2*k)
-    Y = m.log10(abs(1/Ewert-1))
+    Y = m.log10(abs((1/Ewert)-1))
     return int(Q*Y)
 
 if __name__ == '__main__':
-    print(new_Elo(1759, 1000, 40, 1))
-    print(elo_for_max_points(1000, 40))
+    print(new_Elo(2223, 2531, 40, 1))
+    print(new_Elo(2531, 2223, 40, 0))
