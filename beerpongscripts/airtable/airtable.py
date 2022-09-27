@@ -130,6 +130,9 @@ class BeerpongStats:
     def getPlayedGames(self):
         return self.matches.all(sort=["Numbering"])
 
+    def getPlayedGameInTournament(self, tournament):
+        return self.matches.all(sort=["Numbering"], formula="({Turnier}=" + f"'{tournament}')")
+
     def getMatch(self, match_id):
         return self.matches.get(match_id)["fields"]["Begegnung"]
 
@@ -186,9 +189,6 @@ class BeerpongStats:
 
     def getTournamentParticipations(self, tournament_id):
         return self.player.get(tournament_id)["fields"]["Teilnehmerzahl"]
-
-    def getTournamentMatches(self, tournament_id):
-        return self.player.get(tournament_id)["fields"]["Gespielte Spiele"]
 
     def getTournamentBeerDontaions(self, tournament_id):
         return self.player.get(tournament_id)["fields"]["Bierspenden"]

@@ -3,6 +3,7 @@ import math as m
 
 
 """
+# CONSTANTS
 Q = 700
 
 def Ewert_A(elo_A, elo_B):
@@ -42,5 +43,4 @@ def elo_for_max_points(elo_Eigen, spiele_eigen):
     return int(Q*Y)
 
 if __name__ == '__main__':
-    print(new_Elo(2223, 2531, 40, 1))
-    print(new_Elo(2531, 2223, 40, 0))
+    pass
