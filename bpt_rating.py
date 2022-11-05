@@ -15,7 +15,7 @@ api_key = config.get("AIRTABLE", "api_key")
 base_id = config.get("AIRTABLE", "base_id")
 bpt = BeerpongStats(api_key, base_id)
 #Update Airtable
-AIRTABLE = False
+AIRTABLE = True
 
 # Rating Setup
 playerDict = {}

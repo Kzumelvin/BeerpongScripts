@@ -31,7 +31,7 @@ def load_data(filename):
     print(type(jsondata))
     return jsondata
 
-def analyseAllMatches(doAirtableUpdate=False,matchdata=load_data("./data/playedGames.json"), playerdata=load_data("./data/player.json"), teamdata=load_data("./data/teams.json")):
+def analyseAllMatches(matchdata, playerdata, teamdata, doAirtableUpdate=False):
     teamsDict = {}
     playerDict = {}
     listElo = []
@@ -45,9 +45,10 @@ def analyseAllMatches(doAirtableUpdate=False,matchdata=load_data("./data/playedG
         playerDict[player_id] = {"Name": player_name, "Elo": [], "Max_Elo": 0, "Games": 0, "Aktiv": player_aktiv}
         playerDict[player_id]["Elo"].append(player_elo)
 
-    print(playerDict)
+    # print(playerDict)
 
     for team in teamdata:
+        print(team["Teamname"])
         team_id = team["id"]
         team_name = team["fields"]["Teamname"]
         spieler1 = team["fields"]["Spieler"][0]
@@ -57,7 +58,7 @@ def analyseAllMatches(doAirtableUpdate=False,matchdata=load_data("./data/playedG
             spieler3 = team["fields"]["Spieler"][2]
         teamsDict[team_id] = {"Teamname": team_name, "Spieler1": spieler1, "Spieler2": spieler2, "Spieler3": spieler3}
 
-    print(teamsDict)
+    # print(teamsDict)
 
     for game in matchdata:
         Heim1 = {"ID": "", "Name": "", "Punkte": 0}
@@ -225,13 +226,13 @@ def analyseAllMatches(doAirtableUpdate=False,matchdata=load_data("./data/playedG
 
             playerDict[Gast3["ID"]]["Elo"].append(new_Elo_Gast3)
 
-        print(i, Heim1["Name"], ":", new_Elo_Heim1, " ", Heim2["Name"], ":", new_Elo_Heim2, " ", Gast1["Name"], ":",
-              new_Elo_Gast1, " ", Gast2["Name"], ":", new_Elo_Gast2)
+        #print(i, Heim1["Name"], ":", new_Elo_Heim1, " ", Heim2["Name"], ":", new_Elo_Heim2, " ", Gast1["Name"], ":",
+              #new_Elo_Gast1, " ", Gast2["Name"], ":", new_Elo_Gast2)
 
         i = i + 1
 
     for p in playerDict:
-        print(p)
+        #print(p)
         if playerDict[p]["Aktiv"] == "Nein":
             continue
         playerDict[p]["Max_Elo"] = max(playerDict[p]["Elo"])
@@ -249,7 +250,7 @@ def analyseAllMatches(doAirtableUpdate=False,matchdata=load_data("./data/playedG
 
     # Updating airtable
     for p in playerDict:
-        print(p)
+        #print(p)
         if doAirtableUpdate:
             bpt.setPlayerField(p, {"Elo": playerDict[p]["Elo"][-1]})
             bpt.setPlayerField(p, {"Max_Elo": playerDict[p]["Max_Elo"]})
@@ -270,11 +271,11 @@ def analyseAllMatches(doAirtableUpdate=False,matchdata=load_data("./data/playedG
 
     df = pd.DataFrame(elo_array, index=index_array)
     df = df.sort_values(by=[0], ascending=False)
-    print(df)
+    #print(df)
 
     df.to_excel("./results/tabelle.xlsx")
 
-def analyseMatchNextTournament(tournament, doAirtableUpdate=False, playerdata=load_data("./data/player.json"), teamdata=load_data("./data/teams.json")):
+def analyseMatchNextTournament(tournament, playerdata, teamdata, doAirtableUpdate=False):
     teamsDict = {}
     playerDict = {}
     listElo = []
@@ -519,6 +520,6 @@ def analyseMatchNextTournament(tournament, doAirtableUpdate=False, playerdata=lo
     print(df)
 
     df.to_excel("./results_next_tournament/elo.xlsx")
-# update_data()
 
-analyseMatchNextTournament("BPT XIX")
+if __name__ == '__main__':
+    analyseMatchNextTournament(tournament="BPT XIX", playerdata=load_data("./data/player.json"), teamdata=".data/teams.json")

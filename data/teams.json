@@ -1,0 +1,5930 @@
+[
+  {
+    "id": "rec1tKQRZxEvSqZTG",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "receRAwr2yjBWmmG3"
+      ],
+      "Gespielte Spiele Heim": [
+        "reclabjhdyzwIaJi5",
+        "recEfefRMOQ1GNH8x"
+      ],
+      "Platz 6": [
+        "recqfYVyxy36Pq8M3"
+      ],
+      "Spieler": [
+        "recx5jwjtvbZRqEbq",
+        "rec9P4X2h46rfIgdS"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Waidlers go Wild",
+      "Teamstärke": 10.239237612423889,
+      "SN Rate Teams": 0.5,
+      "Heimsiege": 0,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 1,
+      "Spiele": 3,
+      "DC Heim": 0,
+      "DC Gast": 3,
+      "Ditched Cups": 3,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 19.478475224847777,
+      "Spielerzahl": 2,
+      "Winrate": 0.3333333333333333,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6666666666666666,
+      "Team Elo": 1784.5
+    }
+  },
+  {
+    "id": "rec37TPbkbHsfYMRA",
+    "createdTime": "2022-10-28T21:17:43.000Z",
+    "fields": {
+      "Gespielte Spiele Heim": [
+        "rec0TTCG9T6BHNDW6",
+        "recSiOYLwEGrQh2pw",
+        "recIWFajhUyQf3xK1",
+        "reclR9rv2VEgjUXho"
+      ],
+      "Spieler": [
+        "rec8qK6X2e0HOnDLw",
+        "recmbsUPuBLLoTkmG"
+      ],
+      "Teamname": "Yks Kalja",
+      "Teamstärke": 5.12744303126656,
+      "SN Rate Teams": 1,
+      "Heimsiege": 1,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 2,
+      "Spiele": 6,
+      "DC Heim": 4,
+      "DC Gast": 3,
+      "Ditched Cups": 7,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 8.25488606253312,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1415.5,
+      "Platz 2": [
+        "reciykPtFVhPwsT8C"
+      ],
+      "Gespielte Spiele Gast": [
+        "recOkjG5x9tGn8UuF",
+        "recalqPHbmqEMc7SE"
+      ]
+    }
+  },
+  {
+    "id": "rec5BswfqHWjgFxdX",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recFWWmOkEOhtJf5S",
+        "reckTKw9kzsaSwzxE",
+        "recUsPodtHoDZCzRc"
+      ],
+      "Gespielte Spiele Heim": [
+        "rectlrH1lm4r4Q17j",
+        "recrWc6W9f7YwXDhK"
+      ],
+      "Platz 3": [
+        "recusu5G53fldVIN7"
+      ],
+      "Spieler": [
+        "rec8AtvSNkHPduWNA",
+        "recS58nGNGXL0fPXQ"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Kronsch",
+      "Teamstärke": 7.627796409214092,
+      "SN Rate Teams": 1.5,
+      "Heimsiege": 2,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 3,
+      "Spiele": 5,
+      "DC Heim": 3,
+      "DC Gast": 1,
+      "Ditched Cups": 4,
+      "P1": 0,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 12.255592818428184,
+      "Spielerzahl": 2,
+      "Winrate": 0.6,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.4,
+      "Team Elo": 1348.5
+    }
+  },
+  {
+    "id": "rec5DiDiDsYehysQv",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recV9thi4Zjs6jwmW"
+      ],
+      "Gespielte Spiele Heim": [
+        "recBW4NNPtjnvrEuW",
+        "recmFpflSntCYn7Tq",
+        "recqHHnZBUiFGXEwP"
+      ],
+      "Spieler": [
+        "rec6HHctEtePvkoqD",
+        "rec690s0DQ1lMVtgX",
+        "recuWQdGWriHrLbUf"
+      ],
+      "Platz 7": [
+        "recq1pJ73w5YqpEes"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Auf Tisch 1 spielt",
+      "Teamstärke": 8.291137804021409,
+      "SN Rate Teams": 0.3333333333333333,
+      "Heimsiege": 1,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 1,
+      "Spiele": 4,
+      "DC Heim": 6,
+      "DC Gast": 0,
+      "Ditched Cups": 6,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 23.873413412064227,
+      "Spielerzahl": 3,
+      "Winrate": 0.25,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.75,
+      "Team Elo": 1702.6666666666667
+    }
+  },
+  {
+    "id": "rec5oJl4Ks61Zj3sL",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recyTa8yWiAhW42xC",
+        "recUBX0TyVrGplY83",
+        "rec3QiTpScuPtVSP6",
+        "recrQv0vbKUbt4rnU",
+        "recelkGbtchCwEgsB",
+        "recNr3bwQ91MfJepe"
+      ],
+      "Gespielte Spiele Heim": [
+        "recGgE3FVdWxk35Jp",
+        "recbR7ca12N7bKCfU",
+        "recuvaQjpu8DtaoQi",
+        "recqVH3UUteW4QbrT",
+        "recu2HHFIwfwegj4R",
+        "recx6ETGyeulA4zkE",
+        "recVF1BlCLtrzJj9y",
+        "rec7njqQK3FX0jdke",
+        "recr1wtRpV0ktny1R",
+        "recMOuhRFH2tFV0ur",
+        "recnpya3BFw7AgEYF",
+        "reczgSxIAy95FSdX2"
+      ],
+      "Platz 1": [
+        "recCFUNz7iDlogRSN",
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Platz 6": [
+        "rec7fIXZwy1riKamx"
+      ],
+      "Spieler": [
+        "recad29um5PDIYLQy",
+        "recF1ObpDr3Zmk8j8"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Lasse Reinstroemen und Lady McBineBright",
+      "Teamstärke": 11.82093648941668,
+      "SN Rate Teams": 3.5,
+      "Heimsiege": 9,
+      "Auswärtssiege": 5,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 14,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 12,
+      "Auswärtsspiele": 6,
+      "Spiele": 18,
+      "DC Heim": 28,
+      "DC Gast": 17,
+      "Ditched Cups": 45,
+      "P1": 2,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 3,
+      "Spielstärke Team": 16.64187297883336,
+      "Spielerzahl": 2,
+      "Winrate": 0.7777777777777778,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.2222222222222222,
+      "Team Elo": 1582.5
+    }
+  },
+  {
+    "id": "rec6m1EIAGEwqXZmC",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recga7t8TY3qWOXyh",
+        "recW9zaM4rLYt0ACj",
+        "recG6W09j6TJTpuQc",
+        "recly3pUkuyRtjVHJ"
+      ],
+      "Gespielte Spiele Heim": [
+        "recZeV0rO9FG1ehhw",
+        "recUiCm25X2eCWJYZ"
+      ],
+      "Platz 2": [
+        "recZWdpgFaxdkQaIa"
+      ],
+      "Spieler": [
+        "recuWQdGWriHrLbUf",
+        "recx5jwjtvbZRqEbq"
+      ],
+      "Champs": "Nein",
+      "Teamname": "InDeinLoch",
+      "Teamstärke": 11.336749622926096,
+      "SN Rate Teams": 1,
+      "Heimsiege": 2,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 4,
+      "Spiele": 6,
+      "DC Heim": 7,
+      "DC Gast": 1,
+      "Ditched Cups": 8,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 20.67349924585219,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1856
+    }
+  },
+  {
+    "id": "rec88QL5oVtzaubnk",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recqwtP1IuTDsFBj0",
+        "recoFJMk6PajZtusn"
+      ],
+      "Gespielte Spiele Heim": [
+        "recgSUT2JsYkbjKHy",
+        "recwGzt0zGciQJTVu"
+      ],
+      "Spieler": [
+        "recpX0ZJPTiCx9OEN",
+        "rec8AtvSNkHPduWNA",
+        "recAnAvDBPwSVrwpR"
+      ],
+      "Platz 7": [
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Lekato",
+      "Teamstärke": 6.419860299852033,
+      "SN Rate Teams": 0.5,
+      "Heimsiege": 1,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 1,
+      "Siege": 1,
+      "Niederlagen": 2,
+      "Unentschieden": 1,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 3,
+      "DC Gast": 5,
+      "Ditched Cups": 8,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 17.7595808995561,
+      "Spielerzahl": 3,
+      "Winrate": 0.25,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1402.6666666666667
+    }
+  },
+  {
+    "id": "rec8IGGJnnLfqhLrg",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recywzOeT207XE4JB",
+        "reco9d66NFMSKqXJm",
+        "recRO3FRg5PgnLaJh",
+        "recMyJizhSvnIzJCV",
+        "reczpbeQgKNEylTHb",
+        "recTvbQ2LH1Ics5ex"
+      ],
+      "Gespielte Spiele Heim": [
+        "recTm20J5B4ylHhok",
+        "recFmUBa0oHGd5YVk",
+        "rec7TTcgFKCFxChwq",
+        "rec11aSOng6537Za3",
+        "rec5NGvpozKV8yxEn"
+      ],
+      "Platz 8": [
+        "rec7fIXZwy1riKamx"
+      ],
+      "Platz 6": [
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "recAnAvDBPwSVrwpR"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Fick und Fotzi im Bumbsbomber nach Bangkok",
+      "Teamstärke": 7.977941842761758,
+      "SN Rate Teams": 0.5714285714285714,
+      "Heimsiege": 3,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 5,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 7,
+      "Unentschieden": 0,
+      "Heimspiele": 5,
+      "Auswärtsspiele": 6,
+      "Spiele": 11,
+      "DC Heim": 7,
+      "DC Gast": 2,
+      "Ditched Cups": 9,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 14.813026542666373,
+      "Spielerzahl": 2,
+      "Winrate": 0.36363636363636365,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6363636363636364,
+      "Team Elo": 1544.5
+    }
+  },
+  {
+    "id": "rec92CXzerD0AjLny",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recyi7uMudkdFLmEc",
+        "recN7pQZ5nSI0kBFw",
+        "recGDpOZkLPo2wBK4",
+        "recv5ifRLU4PAc5Ze",
+        "recW3v7MOyupMjcut",
+        "rec3zfFpCJFzuhgon",
+        "recpZPMYtk0rCVQ8b",
+        "rec18vYYRWCCUewhE"
+      ],
+      "Gespielte Spiele Heim": [
+        "recM1GJBfzvvRUDd4"
+      ],
+      "Spieler": [
+        "recVEf8fXRdLatYRn",
+        "recmbsUPuBLLoTkmG"
+      ],
+      "Platz 5": [
+        "recfl2ntQuGOlBdPh",
+        "rechnLCrR75uO1GP9"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Alaria",
+      "Teamstärke": 6.7661948493480715,
+      "SN Rate Teams": 0.125,
+      "Heimsiege": 1,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 8,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 8,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 8,
+      "Spiele": 9,
+      "DC Heim": 1,
+      "DC Gast": 0,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 2,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 13.282389698696143,
+      "Spielerzahl": 2,
+      "Winrate": 0.1111111111111111,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.8888888888888888,
+      "Team Elo": 1440.5
+    }
+  },
+  {
+    "id": "rec9ulLjkpebbN3uO",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Heim": [
+        "recvst8bAr14JcYCA",
+        "rec4OTPpnkQh9Jcv7",
+        "recAwCQxENquhSjpB",
+        "recM73hEWwBh0tbwM",
+        "recx0giDJabIixJGK"
+      ],
+      "Spieler": [
+        "recx5jwjtvbZRqEbq",
+        "rec690s0DQ1lMVtgX",
+        "recDPrTwuOYZEJ1AU"
+      ],
+      "Platz 5": [
+        "recP7wRDCggTfDQxI"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Die mongolischen Playboys + Playmate",
+      "Teamstärke": 11.729270534036491,
+      "SN Rate Teams": 1.5,
+      "Heimsiege": 3,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 5,
+      "Auswärtsspiele": 0,
+      "Spiele": 5,
+      "DC Heim": 8,
+      "DC Gast": 0,
+      "Ditched Cups": 8,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 30.687811602109473,
+      "Spielerzahl": 3,
+      "Winrate": 0.6,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.4,
+      "Team Elo": 1917.3333333333333
+    }
+  },
+  {
+    "id": "rec9z1SShflnMePjc",
+    "createdTime": "2022-07-10T09:43:07.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recPHBSqyRYWtOhV7",
+        "recrurdnVDbFSVUNt",
+        "recDDipqNwGa78wwX"
+      ],
+      "Platz 4": [
+        "rec2bRDs0WItCMCzf"
+      ],
+      "Gespielte Spiele Heim": [
+        "recXEjtA8o6eVaN2e",
+        "recxkv2Q7u3VkbdJw",
+        "recgu1qZHuBSVFVpa"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "recx0XynL6KbjY8WY"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Peterchen´s Wichsfahrt",
+      "Teamstärke": 5.646875,
+      "SN Rate Teams": 0.5,
+      "Heimsiege": 0,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 3,
+      "Spiele": 6,
+      "DC Heim": 0,
+      "DC Gast": 5,
+      "Ditched Cups": 5,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.29375,
+      "Spielerzahl": 2,
+      "Winrate": 0.3333333333333333,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6666666666666666,
+      "Team Elo": 1431.5
+    }
+  },
+  {
+    "id": "recA3gR07ulKbWT0l",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recQg24zhHkiN1h6f",
+        "recgSUT2JsYkbjKHy",
+        "recnxCZYdqx83L2Mz",
+        "recItSP8GOinYrHG6",
+        "rec9JQFX06SDlQTWW",
+        "rec2sTh8VRe9SfEyk",
+        "reca7qmv3MqHAKhFu"
+      ],
+      "Gespielte Spiele Heim": [
+        "recRCQ5CJyMFqh0T4",
+        "recHkdoULNUDKs9Yi",
+        "recVKc7NVzuKV1H5p",
+        "recga7t8TY3qWOXyh",
+        "recGMN6fVhKw3x3Uz"
+      ],
+      "Platz 8": [
+        "recq1pJ73w5YqpEes"
+      ],
+      "Platz 3": [
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Platz 6": [
+        "recZWdpgFaxdkQaIa"
+      ],
+      "Spieler": [
+        "rectOT3MewcBbVJUo",
+        "rec9P4X2h46rfIgdS"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Absteigender Ast",
+      "Teamstärke": 8.40623706687015,
+      "SN Rate Teams": 1,
+      "Heimsiege": 2,
+      "Auswärtssiege": 4,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 6,
+      "Niederlagen": 6,
+      "Unentschieden": 0,
+      "Heimspiele": 5,
+      "Auswärtsspiele": 7,
+      "Spiele": 12,
+      "DC Heim": 3,
+      "DC Gast": 6,
+      "Ditched Cups": 9,
+      "P1": 0,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 3,
+      "Spielstärke Team": 14.812474133740299,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1551
+    }
+  },
+  {
+    "id": "recAqSen4R8lBOcsC",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recdwo9KStrfYUNEY",
+        "recnn6GlpVrwEuEOD",
+        "recNY6PgJZLWz09sP"
+      ],
+      "Platz 4": [
+        "rechnLCrR75uO1GP9"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec3zfFpCJFzuhgon"
+      ],
+      "Spieler": [
+        "recF1ObpDr3Zmk8j8",
+        "recpX0ZJPTiCx9OEN"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Hugo Queens 2.0",
+      "Teamstärke": 6.7262483130904185,
+      "SN Rate Teams": 0.3333333333333333,
+      "Heimsiege": 1,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 3,
+      "Spiele": 4,
+      "DC Heim": 1,
+      "DC Gast": 0,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 12.785829959514171,
+      "Spielerzahl": 2,
+      "Winrate": 0.25,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.75,
+      "Team Elo": 1370
+    }
+  },
+  {
+    "id": "recCdzcIxURCFOESA",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec3RA5OSjTs02xvo"
+      ],
+      "Gespielte Spiele Heim": [
+        "recR3PKW76861P0Yk",
+        "rec6G5BVu2moLtkOf",
+        "rec2Wf6hHE6j3Rgad",
+        "rec8wvjIbPrSvVHAI"
+      ],
+      "Platz 6": [
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Spieler": [
+        "recAnAvDBPwSVrwpR",
+        "recS58nGNGXL0fPXQ"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Schwänzel und Gretel",
+      "Teamstärke": 8.906513271333186,
+      "SN Rate Teams": 1.5,
+      "Heimsiege": 2,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 1,
+      "Spiele": 5,
+      "DC Heim": 5,
+      "DC Gast": 1,
+      "Ditched Cups": 6,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.813026542666373,
+      "Spielerzahl": 2,
+      "Winrate": 0.6,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.4,
+      "Team Elo": 1544.5
+    }
+  },
+  {
+    "id": "recD5w669sSRso3n1",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recL56ZOzB8cPAodt",
+        "recz6w928K45peiBg",
+        "recgpyW07uoLbU6t0",
+        "recOT7HLulFVU9WTC",
+        "rec6G5BVu2moLtkOf",
+        "rec4Rmx2SUb6AVbZk",
+        "recVoiTltVuNngrEp",
+        "recgQgE6vF9Q4uwtg"
+      ],
+      "Gespielte Spiele Heim": [
+        "recW1FDbEbl7mXzoL",
+        "recIhVJr6TuxwBkVZ",
+        "recai8bApSiZLHJFG",
+        "rech09GxD4uHHsXVC",
+        "rec3IwrLhnv5Mh06r"
+      ],
+      "Platz 2": [
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Spieler": [
+        "recuWQdGWriHrLbUf",
+        "rec8AtvSNkHPduWNA"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Biersexköder",
+      "Teamstärke": 7.979172863642018,
+      "SN Rate Teams": 0.8571428571428571,
+      "Heimsiege": 3,
+      "Auswärtssiege": 3,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 5,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 6,
+      "Niederlagen": 7,
+      "Unentschieden": 0,
+      "Heimspiele": 5,
+      "Auswärtsspiele": 8,
+      "Spiele": 13,
+      "DC Heim": 10,
+      "DC Gast": 9,
+      "Ditched Cups": 19,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 14.244060012998322,
+      "Spielerzahl": 2,
+      "Winrate": 0.46153846153846156,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5384615384615384,
+      "Team Elo": 1493.5,
+      "Platz 8": [
+        "reciykPtFVhPwsT8C"
+      ]
+    }
+  },
+  {
+    "id": "recEDi2QSxz8pT4nm",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recNjDAb37X7EHMjn",
+        "recm6gEosHONfO5zi",
+        "rec6xiY7IuVIzHBia"
+      ],
+      "Gespielte Spiele Heim": [
+        "recWJ9EHNgtjOAjfS"
+      ],
+      "Platz 9": [
+        "recZWdpgFaxdkQaIa"
+      ],
+      "Spieler": [
+        "recbByPMkCQOlobCw",
+        "recKowTbexOONjz1L"
+      ],
+      "Champs": "Nein",
+      "Teamname": "S und F for Gold",
+      "Teamstärke": 6.269752454991816,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 3,
+      "Spiele": 4,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 12.539504909983632,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1659
+    }
+  },
+  {
+    "id": "recFHPhQMzcduTr9k",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recIalgP4uEDjTqEM",
+        "recyq307t5R0hvi0l"
+      ],
+      "Gespielte Spiele Heim": [
+        "recZr49JpGAt9VsIa"
+      ],
+      "Spieler": [
+        "recac1hbRq3Fz8rCy",
+        "rec8AtvSNkHPduWNA"
+      ],
+      "Platz 5": [
+        "recXNgscyQ51dipIW"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Team KK",
+      "Teamstärke": 5.050254742547426,
+      "SN Rate Teams": 2,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 1,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 2,
+      "Spiele": 3,
+      "DC Heim": 2,
+      "DC Gast": 1,
+      "Ditched Cups": 3,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 6.100509485094852,
+      "Spielerzahl": 2,
+      "Winrate": 0.6666666666666666,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 0.3333333333333333,
+      "Team Elo": 1090
+    }
+  },
+  {
+    "id": "recFN63SZmmZXY9A9",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "reccfud0KMMbaHnie",
+        "recb7nmTJPN6Xirlw"
+      ],
+      "Platz 3": [
+        "reclp6qD10JAZVbaf"
+      ],
+      "Spieler": [
+        "recIBb6nUpArwYe9d",
+        "recuWQdGWriHrLbUf"
+      ],
+      "Champs": "Nein",
+      "Teamname": "DSDS",
+      "Teamstärke": 5.984203835380306,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 0,
+      "Auswärtsspiele": 2,
+      "Spiele": 2,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 11.968407670760612,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1281
+    }
+  },
+  {
+    "id": "recGdd9y1Pn9HiOv1",
+    "createdTime": "2022-07-10T09:44:00.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recpN5EFLrmnhEpqt",
+        "rec3FPpuO3nZRS2dw",
+        "reclWaviLpZDH4Uul"
+      ],
+      "Gespielte Spiele Heim": [
+        "recpNc7qyejpOKRNk"
+      ],
+      "Platz 8": [
+        "rec2bRDs0WItCMCzf"
+      ],
+      "Spieler": [
+        "recF1ObpDr3Zmk8j8",
+        "reccJI5PDnA7THyRr"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Klaas Haas",
+      "Teamstärke": 7.04734943419154,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 3,
+      "Spiele": 4,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.09469886838308,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1448
+    }
+  },
+  {
+    "id": "recIaYMZdYPU9kKEK",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recuSaoUGWCA4R7K9"
+      ],
+      "Gespielte Spiele Heim": [
+        "recItSP8GOinYrHG6",
+        "rec7iAdb6b9tOKLBv",
+        "recQ62yF1gyiMfOS6",
+        "recG6W09j6TJTpuQc"
+      ],
+      "Platz 3": [
+        "recZWdpgFaxdkQaIa"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "recAnAvDBPwSVrwpR"
+      ],
+      "Champs": "Nein",
+      "Teamname": "DeepThroat",
+      "Teamstärke": 11.406513271333186,
+      "SN Rate Teams": 4,
+      "Heimsiege": 3,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 1,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 1,
+      "Spiele": 5,
+      "DC Heim": 3,
+      "DC Gast": 2,
+      "Ditched Cups": 5,
+      "P1": 0,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.813026542666373,
+      "Spielerzahl": 2,
+      "Winrate": 0.8,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.2,
+      "Team Elo": 1544.5
+    }
+  },
+  {
+    "id": "recIkh7eXe5VxhMj3",
+    "createdTime": "2022-10-28T21:19:24.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recAmHw744jopomEy",
+        "rechUMer4udLc96FO",
+        "recIWFajhUyQf3xK1",
+        "rec0i0akKlJZmxh3S"
+      ],
+      "Spieler": [
+        "recF1ObpDr3Zmk8j8",
+        "reccJI5PDnA7THyRr"
+      ],
+      "Teamname": "Klaasine Haas",
+      "Teamstärke": 7.54734943419154,
+      "SN Rate Teams": 0.5,
+      "Heimsiege": 0,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 1,
+      "Siege": 1,
+      "Niederlagen": 2,
+      "Unentschieden": 1,
+      "Heimspiele": 0,
+      "Auswärtsspiele": 4,
+      "Spiele": 4,
+      "DC Heim": 0,
+      "DC Gast": 4,
+      "Ditched Cups": 4,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.09469886838308,
+      "Spielerzahl": 2,
+      "Winrate": 0.25,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1448,
+      "Platz 7": [
+        "reciykPtFVhPwsT8C"
+      ]
+    }
+  },
+  {
+    "id": "recInBEZlNJyvaSxo",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recdnngdlGgi5yIEJ",
+        "rec7njqQK3FX0jdke"
+      ],
+      "Gespielte Spiele Heim": [
+        "recNBbSaRoHkSZ8nw",
+        "recQPRc4vI6pwyCw3",
+        "rec5I1SngFFLf4pej"
+      ],
+      "Spieler": [
+        "recx5jwjtvbZRqEbq",
+        "rec690s0DQ1lMVtgX",
+        "recuWQdGWriHrLbUf"
+      ],
+      "Platz 5": [
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Der diabolische Dreizack",
+      "Teamstärke": 15.059787376670982,
+      "SN Rate Teams": 4,
+      "Heimsiege": 2,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 1,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 2,
+      "Spiele": 5,
+      "DC Heim": 6,
+      "DC Gast": 8,
+      "Ditched Cups": 14,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 33.17936213001295,
+      "Spielerzahl": 3,
+      "Winrate": 0.8,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.2,
+      "Team Elo": 1927.6666666666667
+    }
+  },
+  {
+    "id": "recJNA3cGPef8UDFG",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recNBbSaRoHkSZ8nw",
+        "recx6ETGyeulA4zkE",
+        "recVF1BlCLtrzJj9y"
+      ],
+      "Gespielte Spiele Heim": [
+        "recOxaR3y0ougxUjn",
+        "rec9TLaVFRnMQQUe1"
+      ],
+      "Spieler": [
+        "rec9P4X2h46rfIgdS",
+        "rectOT3MewcBbVJUo"
+      ],
+      "Platz 7": [
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Aufsteiger Ast",
+      "Teamstärke": 8.072903733536815,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 2,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 3,
+      "Spiele": 5,
+      "DC Heim": 8,
+      "DC Gast": 0,
+      "Ditched Cups": 8,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.812474133740299,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1551
+    }
+  },
+  {
+    "id": "recKgSvmCUMvuoqmo",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "reczk1bwmIhiRx7Vy",
+        "reciVoYWLFY7d5EK8"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec1gibTyPUwd1Ek2",
+        "rec3ApyX3lU5KFW7u"
+      ],
+      "Platz 9": [
+        "recvHrp7cEoKb2vqC"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "rec8AtvSNkHPduWNA"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Ron on the Kat",
+      "Teamstärke": 6.127796409214092,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 12.255592818428184,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1348.5
+    }
+  },
+  {
+    "id": "recL3LKZX3qBItkH8",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rectQvqwuI3PONFYX",
+        "recQSlg6GadxVYlE0",
+        "recIVs4bx1azFFr3x",
+        "rec1v8cKFmYKwXG2I",
+        "rec0TTCG9T6BHNDW6",
+        "rec0RGaaqu87Cw9Yl",
+        "rec9MPKIgeemVplxs",
+        "receGbNroZruAO2KP"
+      ],
+      "Gespielte Spiele Heim": [
+        "rechUMer4udLc96FO",
+        "recwWDbvkl1K6z8e8"
+      ],
+      "Platz 6": [
+        "reclp6qD10JAZVbaf"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "recVEf8fXRdLatYRn"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Ron on the Lex",
+      "Teamstärke": 7.947293484748177,
+      "SN Rate Teams": 0.5,
+      "Heimsiege": 1,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 6,
+      "Heimunentschieden": 1,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 6,
+      "Unentschieden": 1,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 8,
+      "Spiele": 10,
+      "DC Heim": 3,
+      "DC Gast": 3,
+      "Ditched Cups": 6,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.894586969496354,
+      "Spielerzahl": 2,
+      "Winrate": 0.3,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1496
+    }
+  },
+  {
+    "id": "recLCyi6uUZyXrFM6",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recSGGOQwyt5KuA3r"
+      ],
+      "Gespielte Spiele Heim": [
+        "recNYKfyrrIZ5FwxY",
+        "recb7nmTJPN6Xirlw",
+        "recMUvUgnKg7WzBAJ",
+        "rec1v8cKFmYKwXG2I"
+      ],
+      "Platz 2": [
+        "reclp6qD10JAZVbaf"
+      ],
+      "Spieler": [
+        "rec9P4X2h46rfIgdS",
+        "rec0leiPf2HIyHaIH"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Last Man Standing",
+      "Teamstärke": 9.410263253449529,
+      "SN Rate Teams": 4,
+      "Heimsiege": 4,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 1,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 1,
+      "Spiele": 5,
+      "DC Heim": 4,
+      "DC Gast": 0,
+      "Ditched Cups": 4,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.820526506899057,
+      "Spielerzahl": 2,
+      "Winrate": 0.8,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.2,
+      "Team Elo": 2121.5
+    }
+  },
+  {
+    "id": "recLEUv3YXO6PIIib",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recO7QFYNF8ceOgkP",
+        "recVndqi86wMnMEPA",
+        "recM73hEWwBh0tbwM"
+      ],
+      "Gespielte Spiele Heim": [
+        "recD6DScCkI2Kj6iN",
+        "rec9w6KqcerUbqJhS",
+        "rec0RAdqh0hhravZx",
+        "recygBf8NlXus6w8G"
+      ],
+      "Platz 1": [
+        "recP7wRDCggTfDQxI"
+      ],
+      "Spieler": [
+        "recAnAvDBPwSVrwpR",
+        "recTqFlKWyMHa2aHh"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Gays Anatomy",
+      "Teamstärke": 8.24297160466652,
+      "SN Rate Teams": 2.5,
+      "Heimsiege": 2,
+      "Auswärtssiege": 3,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 5,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 3,
+      "Spiele": 7,
+      "DC Heim": 3,
+      "DC Gast": 4,
+      "Ditched Cups": 7,
+      "P1": 1,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 11.48594320933304,
+      "Spielerzahl": 2,
+      "Winrate": 0.7142857142857143,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.2857142857142857,
+      "Team Elo": 2167.5
+    }
+  },
+  {
+    "id": "recLpOT8Az4h8MOnN",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recBiVpD6m7TdMqrz",
+        "recLW1EblJfTjcUIi",
+        "reckUri1QznRs4eT5",
+        "recnpya3BFw7AgEYF"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec315QGrk9Pt43Eo",
+        "recXRvkqjNc6goMDR"
+      ],
+      "Platz 3": [
+        "rec7fIXZwy1riKamx"
+      ],
+      "Spieler": [
+        "rec690s0DQ1lMVtgX",
+        "recDPrTwuOYZEJ1AU"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Dong Dong Ridaz",
+      "Teamstärke": 11.654931442080377,
+      "SN Rate Teams": 2,
+      "Heimsiege": 1,
+      "Auswärtssiege": 3,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 4,
+      "Spiele": 6,
+      "DC Heim": 2,
+      "DC Gast": 10,
+      "Ditched Cups": 12,
+      "P1": 0,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 19.309862884160754,
+      "Spielerzahl": 2,
+      "Winrate": 0.6666666666666666,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.3333333333333333,
+      "Team Elo": 1873.5
+    }
+  },
+  {
+    "id": "recMNhlgIHeZSBh30",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec3I4POiyhLFpM3G",
+        "reciHwSJ0V28pao5I"
+      ],
+      "Gespielte Spiele Heim": [
+        "recwqhIqQJ5pfbIBF"
+      ],
+      "Spieler": [
+        "recmbsUPuBLLoTkmG",
+        "recAavjq4A6UYYMl2",
+        "rec8AtvSNkHPduWNA"
+      ],
+      "Platz 7": [
+        "recsPXTGjYbj5rnLI"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Vanilla Brownie",
+      "Teamstärke": 5.293253061330536,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 2,
+      "Spiele": 3,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 15.87975918399161,
+      "Spielerzahl": 3,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1286
+    }
+  },
+  {
+    "id": "recNc1q7If8FyiAAo",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recmFpflSntCYn7Tq",
+        "recWb0RiHLJRPZXMI",
+        "recmpHbCOECwywmY5",
+        "recFmUBa0oHGd5YVk"
+      ],
+      "Gespielte Spiele Heim": [
+        "recRDMSEPvGOQtHmp"
+      ],
+      "Platz 9": [
+        "recq1pJ73w5YqpEes"
+      ],
+      "Spieler": [
+        "recmbsUPuBLLoTkmG",
+        "recAavjq4A6UYYMl2"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Die Guuden",
+      "Teamstärke": 5.715624849448379,
+      "SN Rate Teams": 0.25,
+      "Heimsiege": 0,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 4,
+      "Spiele": 5,
+      "DC Heim": 0,
+      "DC Gast": 1,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.931249698896758,
+      "Spielerzahl": 2,
+      "Winrate": 0.2,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.8,
+      "Team Elo": 1289
+    }
+  },
+  {
+    "id": "recO7hy3QrZPwL6C7",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recy3WDCNNmW2Bm8m",
+        "recMiVdmjauE1bFjv",
+        "recQg2brcjUmLRfAj"
+      ],
+      "Platz 4": [
+        "recq1pJ73w5YqpEes"
+      ],
+      "Gespielte Spiele Heim": [
+        "recV9thi4Zjs6jwmW",
+        "recThNrqlICXdu1Ga",
+        "recmpHbCOECwywmY5",
+        "recJ1o6f9iAVxchD2",
+        "recktXqjqPGn6Svhx",
+        "rec7n6YRIUf3NElAg",
+        "rechIF1Rgj6LxoCTN"
+      ],
+      "Spieler": [
+        "recQyPuEWjLrXfaJn",
+        "recpX0ZJPTiCx9OEN"
+      ],
+      "Platz 5": [
+        "recCFUNz7iDlogRSN"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Grüna Gatsch",
+      "Teamstärke": 5.272564102564102,
+      "SN Rate Teams": 1,
+      "Heimsiege": 4,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 5,
+      "Niederlagen": 5,
+      "Unentschieden": 0,
+      "Heimspiele": 7,
+      "Auswärtsspiele": 3,
+      "Spiele": 10,
+      "DC Heim": 8,
+      "DC Gast": 3,
+      "Ditched Cups": 11,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 8.545128205128204,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Nein"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1455
+    }
+  },
+  {
+    "id": "recQi5rEO3E8PJwpb",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recBlPja4Z2UQmvHE",
+        "recAwCQxENquhSjpB",
+        "rec9w6KqcerUbqJhS",
+        "rec1gdwEFs6jEBvjC"
+      ],
+      "Gespielte Spiele Heim": [
+        "reccqe3QUdNqlw0qb"
+      ],
+      "Platz 9": [
+        "recP7wRDCggTfDQxI"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "rec2vp6AU15oa7h8r"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Ficket Nemo",
+      "Teamstärke": 6.643541666666666,
+      "SN Rate Teams": 0.25,
+      "Heimsiege": 0,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 4,
+      "Spiele": 5,
+      "DC Heim": 0,
+      "DC Gast": 1,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 12.787083333333332,
+      "Spielerzahl": 2,
+      "Winrate": 0.2,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.8,
+      "Team Elo": 1380.5
+    }
+  },
+  {
+    "id": "recS7khJT3ewYgVEe",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recgjy4hH7kjl6Lmk"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec7sH33hxqCeWIXI",
+        "recjchCGgJYbDFKKX",
+        "recemJxiRR7luIB0N"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "recx0XynL6KbjY8WY"
+      ],
+      "Platz 5": [
+        "reca1v8oJaC9f22N2"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Scheidi und der Einöli",
+      "Teamstärke": 6.146875,
+      "SN Rate Teams": 1,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 1,
+      "Spiele": 4,
+      "DC Heim": 3,
+      "DC Gast": 1,
+      "Ditched Cups": 4,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.29375,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1431.5
+    }
+  },
+  {
+    "id": "recSIxmUAbgujczFs",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recTSHsOq50jBwY31",
+        "recq5Gfb8vGjpoKkX",
+        "recvrKLubRLN7XZ7h",
+        "recRCQ5CJyMFqh0T4",
+        "recGZRpDfo10OBAFB",
+        "recAftPudHwKteG0b",
+        "rec0zTyuBQ7ccLB8v",
+        "recQ62yF1gyiMfOS6",
+        "recZeV0rO9FG1ehhw",
+        "recqHHnZBUiFGXEwP",
+        "recjHHo2jxTWYu2e9",
+        "recRDMSEPvGOQtHmp",
+        "recJ1o6f9iAVxchD2",
+        "rec7ke4bMrBRlIRH9",
+        "rectIo7Nra3bVbugZ",
+        "reci6N1FG9FYoySHn",
+        "recXyuKPa8qsONgS9",
+        "recbR7ca12N7bKCfU",
+        "recuvaQjpu8DtaoQi",
+        "recgZvEA5rU5bgbCt",
+        "recOnoeVm8BtY8fLO",
+        "recFSRbQ0dYzqNh6m",
+        "recAC4hy0xAlNhdde",
+        "recBFOZ5OyT0BBXxU"
+      ],
+      "Platz 4": [
+        "recZWdpgFaxdkQaIa",
+        "recCFUNz7iDlogRSN"
+      ],
+      "Gespielte Spiele Heim": [
+        "recmvjNdgw0k4AJNs",
+        "recIalgP4uEDjTqEM",
+        "recHRbyuhSPPEoLJt",
+        "recr7bmaaNgaPtxbj",
+        "rec8rbJ9XbpOfCrEw",
+        "recFT63VIf8mbGx3k",
+        "recygJ3o8f4Scmauy",
+        "recm6gEosHONfO5zi",
+        "recGflKekVpDvA2Iw",
+        "rec3I4POiyhLFpM3G",
+        "reclcXB0jG7dByLkY",
+        "recFAP4C1IBfvPpMN",
+        "rec9mX5CMMNrjNdzB",
+        "reco9d66NFMSKqXJm",
+        "rec3QiTpScuPtVSP6",
+        "recKbh8EBmF0WUJCf"
+      ],
+      "Platz 2": [
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Platz 1": [
+        "recXNgscyQ51dipIW",
+        "reckcL6F3XuQsbrXU",
+        "recq1pJ73w5YqpEes"
+      ],
+      "Platz 6": [
+        "recsPXTGjYbj5rnLI"
+      ],
+      "Spieler": [
+        "recy7L3F6Q69WOCR0",
+        "recLu2wGRaYoFoTYf"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Dr. Subba",
+      "Teamstärke": 15.210897572213364,
+      "SN Rate Teams": 3.4444444444444446,
+      "Heimsiege": 13,
+      "Auswärtssiege": 18,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 6,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 31,
+      "Niederlagen": 9,
+      "Unentschieden": 0,
+      "Heimspiele": 16,
+      "Auswärtsspiele": 24,
+      "Spiele": 40,
+      "DC Heim": 37,
+      "DC Gast": 64,
+      "Ditched Cups": 101,
+      "P1": 3,
+      "P2": 1,
+      "P3": 0,
+      "P4": 2,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 7,
+      "Spielstärke Team": 23.53290625553784,
+      "Spielerzahl": 2,
+      "Winrate": 0.775,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.225,
+      "Team Elo": 1733
+    }
+  },
+  {
+    "id": "recSLaveHYX1DEQip",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recOxaR3y0ougxUjn",
+        "recyu7l3lxVFyvZeF"
+      ],
+      "Gespielte Spiele Heim": [
+        "recdnngdlGgi5yIEJ",
+        "recrQv0vbKUbt4rnU"
+      ],
+      "Spieler": [
+        "rec8AtvSNkHPduWNA",
+        "recpX0ZJPTiCx9OEN"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Kalena",
+      "Platz 10": [
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Teamstärke": 5.126818845111528,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 1,
+      "DC Gast": 0,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 1,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.253637690223057,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1268
+    }
+  },
+  {
+    "id": "recSxuOz5NJ2JmKQO",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recGMN6fVhKw3x3Uz",
+        "recznUAdD3zvhLFBX",
+        "recwbnnGdmliTkH4w",
+        "recyuriZkmZ1Yd4So",
+        "recPPIE0iFfXpwyv6"
+      ],
+      "Gespielte Spiele Heim": [
+        "reciNAvgnsUGioDaK"
+      ],
+      "Platz 6": [
+        "recq1pJ73w5YqpEes"
+      ],
+      "Spieler": [
+        "recad29um5PDIYLQy",
+        "recF1ObpDr3Zmk8j8"
+      ],
+      "Platz 5": [
+        "recsPXTGjYbj5rnLI"
+      ],
+      "Champs": "Nein",
+      "Teamname": "20cm",
+      "Teamstärke": 9.32093648941668,
+      "SN Rate Teams": 1,
+      "Heimsiege": 1,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 5,
+      "Spiele": 6,
+      "DC Heim": 3,
+      "DC Gast": 2,
+      "Ditched Cups": 5,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 16.64187297883336,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1582.5
+    }
+  },
+  {
+    "id": "recUK976VFtMdt40K",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec5ONfbft56acfnL"
+      ],
+      "Gespielte Spiele Heim": [
+        "recznUAdD3zvhLFBX",
+        "rec2sTh8VRe9SfEyk",
+        "recR6wdCHtkvFEG12",
+        "rec7ke4bMrBRlIRH9",
+        "recy3WDCNNmW2Bm8m"
+      ],
+      "Platz 3": [
+        "recq1pJ73w5YqpEes"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "recAnAvDBPwSVrwpR"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Ok cool.",
+      "Teamstärke": 9.406513271333186,
+      "SN Rate Teams": 2,
+      "Heimsiege": 4,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 5,
+      "Auswärtsspiele": 1,
+      "Spiele": 6,
+      "DC Heim": 4,
+      "DC Gast": 0,
+      "Ditched Cups": 4,
+      "P1": 0,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.813026542666373,
+      "Spielerzahl": 2,
+      "Winrate": 0.6666666666666666,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.3333333333333333,
+      "Team Elo": 1544.5
+    }
+  },
+  {
+    "id": "recUQv6XhOvaALjyv",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recjcKLm9gM5qwFBI",
+        "rec4T1scefYYZ1TML",
+        "recR6snMbgTwPnaUL"
+      ],
+      "Gespielte Spiele Heim": [
+        "recPPIE0iFfXpwyv6",
+        "recOdSdlEDEJqIQkX"
+      ],
+      "Platz 2": [
+        "recsPXTGjYbj5rnLI"
+      ],
+      "Spieler": [
+        "rec9P4X2h46rfIgdS",
+        "recuWQdGWriHrLbUf"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Meine Eltern sand Geschwister",
+      "Teamstärke": 10.198038517401264,
+      "SN Rate Teams": 1.5,
+      "Heimsiege": 0,
+      "Auswärtssiege": 3,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 3,
+      "Spiele": 5,
+      "DC Heim": 0,
+      "DC Gast": 6,
+      "Ditched Cups": 6,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 17.396077034802527,
+      "Spielerzahl": 2,
+      "Winrate": 0.6,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.4,
+      "Team Elo": 1635.5
+    }
+  },
+  {
+    "id": "recUVKin3lj3pYTkp",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec9mX5CMMNrjNdzB",
+        "recTm20J5B4ylHhok"
+      ],
+      "Gespielte Spiele Heim": [
+        "recguUKSxbNst2nlx",
+        "recFSRbQ0dYzqNh6m",
+        "recDX4FIHXG0XGxuW"
+      ],
+      "Platz 8": [
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Spieler": [
+        "recVEf8fXRdLatYRn",
+        "recCZexIFUMSd7tB2"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Analex und Kackmin",
+      "Teamstärke": 5.320418484748178,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 2,
+      "Spiele": 5,
+      "DC Heim": 1,
+      "DC Gast": 2,
+      "Ditched Cups": 3,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 9.307503636163021,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1349.5
+    }
+  },
+  {
+    "id": "recVCpNci6BP6gVBk",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec4ZOEyf6lteAyLW",
+        "recVvZgPihwTz91CK",
+        "recxGvJhF90SZvNwX",
+        "recwisl8xlh7S9ckj",
+        "rec0A2A5vXFzmYIzv",
+        "recbAco60qSUHYIAT",
+        "recIV7yG8zskg37iL",
+        "recR3PKW76861P0Yk",
+        "reckPsZ1fKANgaWQ7",
+        "rec7sH33hxqCeWIXI",
+        "recpNc7qyejpOKRNk"
+      ],
+      "Platz 4": [
+        "reca1v8oJaC9f22N2"
+      ],
+      "Gespielte Spiele Heim": [
+        "recJPVEF03IdX1pLI",
+        "recRQSzopPZdrSdYU",
+        "recVndqi86wMnMEPA",
+        "recJNjI89Eaj4xHqA",
+        "rec0niFbtiBjNhmaB",
+        "recaSHvnco7ujeuxN",
+        "rec7c1o5jFJGWjhpN",
+        "recgjy4hH7kjl6Lmk",
+        "recyMfDMBG8TAWc5u",
+        "recVYrRCNzKg3Idhh",
+        "recaTbG7UjoLmGbic",
+        "recR21eZvezmShmdU"
+      ],
+      "Platz 3": [
+        "recP7wRDCggTfDQxI",
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Platz 6": [
+        "rec2bRDs0WItCMCzf"
+      ],
+      "Spieler": [
+        "rectOT3MewcBbVJUo",
+        "rec9P4X2h46rfIgdS"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Balkohol",
+      "Teamstärke": 8.322903733536815,
+      "SN Rate Teams": 0.9166666666666666,
+      "Heimsiege": 6,
+      "Auswärtssiege": 5,
+      "Heimniederlagen": 6,
+      "Auswärtsniederlagen": 6,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 11,
+      "Niederlagen": 12,
+      "Unentschieden": 0,
+      "Heimspiele": 12,
+      "Auswärtsspiele": 11,
+      "Spiele": 23,
+      "DC Heim": 18,
+      "DC Gast": 7,
+      "Ditched Cups": 25,
+      "P1": 0,
+      "P2": 0,
+      "P3": 2,
+      "P4": 1,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 4,
+      "Spielstärke Team": 14.812474133740299,
+      "Spielerzahl": 2,
+      "Winrate": 0.4782608695652174,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5217391304347826,
+      "Team Elo": 1551
+    }
+  },
+  {
+    "id": "recVzvK5D2UVdPxd8",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recGflKekVpDvA2Iw",
+        "recYkgEQ0pnXObeql",
+        "recVqAB1Rlj1EAuOX"
+      ],
+      "Platz 4": [
+        "recsPXTGjYbj5rnLI"
+      ],
+      "Gespielte Spiele Heim": [
+        "rechKdUep2IraiGME",
+        "recYeKXKmdq5U07YH",
+        "rec4T1scefYYZ1TML",
+        "reciHwSJ0V28pao5I",
+        "reclZrj89Fqhu3134",
+        "rec15h7kTbXxg4hir",
+        "recQg2brcjUmLRfAj"
+      ],
+      "Platz 8": [
+        "recCFUNz7iDlogRSN"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "recAnAvDBPwSVrwpR"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Glitschig in der Klit",
+      "Teamstärke": 7.835084699904615,
+      "SN Rate Teams": 0.42857142857142855,
+      "Heimsiege": 1,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 6,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 7,
+      "Unentschieden": 0,
+      "Heimspiele": 7,
+      "Auswärtsspiele": 3,
+      "Spiele": 10,
+      "DC Heim": 3,
+      "DC Gast": 5,
+      "Ditched Cups": 8,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 14.813026542666373,
+      "Spielerzahl": 2,
+      "Winrate": 0.3,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.7,
+      "Team Elo": 1544.5
+    }
+  },
+  {
+    "id": "recXDsQVIcknWHTQh",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recd5urJesvgytzdq",
+        "recxnhxW2HT2GG2xl",
+        "recxsRCUvg93iEIz0",
+        "recg4L6M168drHhFl",
+        "rec8PsWlCvqZH0WCe",
+        "recLcZI5ibBPpdzVr",
+        "recHRbyuhSPPEoLJt",
+        "recrQNjnmiTSX8S4j",
+        "recDvbWJxoDEB3wZz",
+        "rec7iAdb6b9tOKLBv",
+        "rec8rbJ9XbpOfCrEw",
+        "recBCKMxoZWBd6Cu8",
+        "recBW4NNPtjnvrEuW",
+        "recThNrqlICXdu1Ga",
+        "recR6wdCHtkvFEG12",
+        "rechKdUep2IraiGME",
+        "recYeKXKmdq5U07YH",
+        "recwqhIqQJ5pfbIBF",
+        "recqBwRqo6kuxCLFv",
+        "reclcXB0jG7dByLkY",
+        "recktXqjqPGn6Svhx",
+        "recGgE3FVdWxk35Jp",
+        "recpBxhVmp3y3o1s0",
+        "recnwk4AqQ0wlHUo1"
+      ],
+      "Platz 4": [
+        "recXNgscyQ51dipIW",
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec3InbBrFBu6inpo",
+        "rechj7btaSW9vfZ9k",
+        "recpaOHJUfTP2Yebr",
+        "recwAoj4raV4HWzMY",
+        "reckkYWyMJX9PzhHm",
+        "rec3Jjtd0Rx3PUdiY",
+        "reconJ8PluHKebtcG",
+        "rectZlW9NKlLvkR5h",
+        "recCWATeuc9Zf36hI",
+        "rec0ZtTC7yww1cz0Z",
+        "recQg24zhHkiN1h6f",
+        "recKfY3EybXIVve9o",
+        "recYP4dzFz52CqJzm",
+        "recW9zaM4rLYt0ACj",
+        "recFYAv8XWP3hqYD7",
+        "recNjDAb37X7EHMjn",
+        "recWb0RiHLJRPZXMI",
+        "recjHHo2jxTWYu2e9",
+        "recoVIAgSdvnNr7ur",
+        "reci6N1FG9FYoySHn",
+        "recXyuKPa8qsONgS9"
+      ],
+      "Platz 1": [
+        "recZWdpgFaxdkQaIa"
+      ],
+      "Platz 3": [
+        "recqfYVyxy36Pq8M3",
+        "recvHrp7cEoKb2vqC",
+        "recsPXTGjYbj5rnLI",
+        "recCFUNz7iDlogRSN"
+      ],
+      "Spieler": [
+        "recsgO8nY1TWgqa7c",
+        "recVEf8fXRdLatYRn"
+      ],
+      "Platz 5": [
+        "recq1pJ73w5YqpEes"
+      ],
+      "Champs": "Ja",
+      "Teamname": "C&C",
+      "Teamstärke": 10.40902959585929,
+      "SN Rate Teams": 1.4444444444444444,
+      "Heimsiege": 12,
+      "Auswärtssiege": 14,
+      "Heimniederlagen": 8,
+      "Auswärtsniederlagen": 10,
+      "Heimunentschieden": 1,
+      "Auswärtsunentschieden": 0,
+      "Siege": 26,
+      "Niederlagen": 18,
+      "Unentschieden": 1,
+      "Heimspiele": 21,
+      "Auswärtsspiele": 24,
+      "Spiele": 45,
+      "DC Heim": 30,
+      "DC Gast": 35,
+      "Ditched Cups": 65,
+      "P1": 1,
+      "P2": 0,
+      "P3": 4,
+      "P4": 2,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 8,
+      "Spielstärke Team": 17.92917030282969,
+      "Spielerzahl": 2,
+      "Winrate": 0.5777777777777777,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 0.4,
+      "Team Elo": 1713
+    }
+  },
+  {
+    "id": "recXKcuiwO3mpMg8c",
+    "createdTime": "2022-10-28T21:16:18.000Z",
+    "fields": {
+      "Gespielte Spiele Heim": [
+        "recVoiTltVuNngrEp",
+        "recsvQRi65XILctjG",
+        "recFfSAswJDmWFg6F",
+        "recNgQiBTgFuEPt3f",
+        "rec0RGaaqu87Cw9Yl"
+      ],
+      "Spieler": [
+        "rec2vp6AU15oa7h8r",
+        "recDPrTwuOYZEJ1AU"
+      ],
+      "Teamname": "Bierkätzchen",
+      "Teamstärke": 6.808666666666666,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 2,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 5,
+      "Auswärtsspiele": 0,
+      "Spiele": 5,
+      "DC Heim": 3,
+      "DC Gast": 0,
+      "Ditched Cups": 3,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 12.283999999999999,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1510,
+      "Platz 6": [
+        "reciykPtFVhPwsT8C"
+      ]
+    }
+  },
+  {
+    "id": "recYOBDNZI4RW1rH1",
+    "createdTime": "2022-07-10T09:42:26.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recxkv2Q7u3VkbdJw",
+        "recj0cndhnJl9z4E2"
+      ],
+      "Gespielte Spiele Heim": [
+        "receEadKgA0Nvnllt",
+        "reclWaviLpZDH4Uul",
+        "recDDipqNwGa78wwX",
+        "recVeL4nzDTwjNJKw"
+      ],
+      "Platz 2": [
+        "rec2bRDs0WItCMCzf"
+      ],
+      "Spieler": [
+        "recVEf8fXRdLatYRn",
+        "recAnAvDBPwSVrwpR",
+        "recuWQdGWriHrLbUf"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Al im Ständerland",
+      "Teamstärke": 13.129665791133178,
+      "SN Rate Teams": 5,
+      "Heimsiege": 3,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 5,
+      "Niederlagen": 1,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 2,
+      "Spiele": 6,
+      "DC Heim": 5,
+      "DC Gast": 4,
+      "Ditched Cups": 9,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 24.388997373399533,
+      "Spielerzahl": 3,
+      "Winrate": 0.8333333333333334,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.16666666666666666,
+      "Team Elo": 1651.3333333333333
+    }
+  },
+  {
+    "id": "recYPC8GRwCrOG1N1",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "reciZwHIvb3wQgiwi",
+        "recSiOYLwEGrQh2pw",
+        "recwWDbvkl1K6z8e8",
+        "reclR9rv2VEgjUXho"
+      ],
+      "Gespielte Spiele Heim": [
+        "rechk02QSL55WXmul",
+        "recyi7uMudkdFLmEc",
+        "rec7U2qP0kdxNZBvn",
+        "recCmZW1kzaSfUA3b",
+        "recAmHw744jopomEy",
+        "rec0i0akKlJZmxh3S",
+        "rec9MPKIgeemVplxs"
+      ],
+      "Platz 2": [
+        "recfl2ntQuGOlBdPh"
+      ],
+      "Spieler": [
+        "recLu2wGRaYoFoTYf",
+        "rec9P4X2h46rfIgdS"
+      ],
+      "Champs": "Nein",
+      "Teamname": "1 and a Half Waidler",
+      "Teamstärke": 14.015654003050805,
+      "SN Rate Teams": 4.5,
+      "Heimsiege": 7,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 9,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 7,
+      "Auswärtsspiele": 4,
+      "Spiele": 11,
+      "DC Heim": 16,
+      "DC Gast": 3,
+      "Ditched Cups": 19,
+      "P1": 1,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 19.03130800610161,
+      "Spielerzahl": 2,
+      "Winrate": 0.8181818181818182,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.18181818181818182,
+      "Team Elo": 1575.5,
+      "Platz 1": [
+        "reciykPtFVhPwsT8C"
+      ]
+    }
+  },
+  {
+    "id": "recbTGMRQOAFNPUHe",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec7U2qP0kdxNZBvn",
+        "recVdY7t249sEI1gi",
+        "recSUCxGaFMYffvsQ"
+      ],
+      "Platz 4": [
+        "recfl2ntQuGOlBdPh"
+      ],
+      "Gespielte Spiele Heim": [
+        "recsPp32tEiHxCZ1y",
+        "recGDpOZkLPo2wBK4"
+      ],
+      "Spieler": [
+        "recF1ObpDr3Zmk8j8",
+        "recbByPMkCQOlobCw"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Hugo Queens",
+      "Teamstärke": 7.753693075774543,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 2,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 3,
+      "Spiele": 5,
+      "DC Heim": 2,
+      "DC Gast": 0,
+      "Ditched Cups": 2,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.174052818215753,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1583
+    }
+  },
+  {
+    "id": "recc22yfSAHy4ym6o",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recHkdoULNUDKs9Yi",
+        "recLJAy1qiCo3pWeD"
+      ],
+      "Gespielte Spiele Heim": [
+        "recDvbWJxoDEB3wZz",
+        "recAftPudHwKteG0b",
+        "recqwtP1IuTDsFBj0",
+        "recpdt6FF7BKcJsPz"
+      ],
+      "Platz 2": [
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Spieler": [
+        "recuWQdGWriHrLbUf",
+        "recS58nGNGXL0fPXQ"
+      ],
+      "Champs": "Nein",
+      "Teamname": "schlenzender Mongo",
+      "Teamstärke": 12.301316930618402,
+      "SN Rate Teams": 4,
+      "Heimsiege": 2,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 1,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 1,
+      "Unentschieden": 1,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 2,
+      "Spiele": 6,
+      "DC Heim": 7,
+      "DC Gast": 2,
+      "Ditched Cups": 9,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 16.602633861236804,
+      "Spielerzahl": 2,
+      "Winrate": 0.6666666666666666,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.16666666666666666,
+      "Team Elo": 1562
+    }
+  },
+  {
+    "id": "recd2KVHg8CLAuk5k",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "reciRz4eqxR4JY0Wt",
+        "reclabjhdyzwIaJi5",
+        "rec4yUPmQl07pb8tz",
+        "recTgOCpkqiqf5pgv",
+        "reckkYWyMJX9PzhHm",
+        "rec8cnuMPPONnis7Q",
+        "recJPVEF03IdX1pLI",
+        "recvst8bAr14JcYCA",
+        "recD6DScCkI2Kj6iN",
+        "recURT4N9xDcIBhJ6"
+      ],
+      "Gespielte Spiele Heim": [
+        "recwifjLxA8KMnbDT",
+        "recqKfUQWqyo0oaSv",
+        "recRyotUO5NLxfrCz",
+        "recBlPja4Z2UQmvHE"
+      ],
+      "Platz 1": [
+        "recqfYVyxy36Pq8M3"
+      ],
+      "Platz 6": [
+        "recvHrp7cEoKb2vqC"
+      ],
+      "Spieler": [
+        "recad29um5PDIYLQy",
+        "recLu2wGRaYoFoTYf"
+      ],
+      "Platz 7": [
+        "recP7wRDCggTfDQxI"
+      ],
+      "Champs": "Ja",
+      "Teamname": "AS Koma",
+      "Teamstärke": 11.845976361824974,
+      "SN Rate Teams": 1.8,
+      "Heimsiege": 3,
+      "Auswärtssiege": 6,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 4,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 9,
+      "Niederlagen": 5,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 10,
+      "Spiele": 14,
+      "DC Heim": 7,
+      "DC Gast": 13,
+      "Ditched Cups": 20,
+      "P1": 1,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 3,
+      "Spielstärke Team": 20.091952723649946,
+      "Spielerzahl": 2,
+      "Winrate": 0.6428571428571429,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.35714285714285715,
+      "Team Elo": 1634
+    }
+  },
+  {
+    "id": "recd75DLxHSgfQEuH",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recaw8LOOPMEmyL2L",
+        "recHqbGkIQO0XhbuG"
+      ],
+      "Gespielte Spiele Heim": [
+        "recIJBp61HpSTEO4J",
+        "recC7rgV5MZ3E22dQ",
+        "reco2xMnJtdxofdp7"
+      ],
+      "Platz 6": [
+        "reca1v8oJaC9f22N2"
+      ],
+      "Spieler": [
+        "recDPrTwuOYZEJ1AU",
+        "recuWQdGWriHrLbUf"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Schwanz der Vampire",
+      "Teamstärke": 8.716441930618402,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 2,
+      "Spiele": 5,
+      "DC Heim": 6,
+      "DC Gast": 2,
+      "Ditched Cups": 8,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 16.09955052790347,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1691.5
+    }
+  },
+  {
+    "id": "recdGqTOmcWdVY7Pw",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recKHTXIfjXMBo4wV",
+        "recRtsNILaQCg6o1Q",
+        "rec3InbBrFBu6inpo",
+        "recR8HfgF9XDPzMOL",
+        "recoCAE6QPgDq3Ob5",
+        "recqrCrYk8nQyUlyn"
+      ],
+      "Gespielte Spiele Heim": [
+        "recl51GYlXBUTFKWb",
+        "reciZwHIvb3wQgiwi",
+        "recN7pQZ5nSI0kBFw",
+        "recVdY7t249sEI1gi",
+        "recSWMS2kc22nu3iY",
+        "recW3v7MOyupMjcut",
+        "recdwo9KStrfYUNEY",
+        "recZEOU0z87JtyQC8",
+        "rechJWhw6MlMs8QSu",
+        "reclMgwJTcGHp468E",
+        "reccfud0KMMbaHnie",
+        "rec6iVuahVLCqBGus",
+        "recSGGOQwyt5KuA3r",
+        "rectQvqwuI3PONFYX",
+        "recA6vnCxmb2khVpI",
+        "recFWWmOkEOhtJf5S",
+        "recdcWM5ssUaETe9O",
+        "recgYMBQFdOwzxmkh",
+        "recxnhxW2HT2GG2xl",
+        "recnltzUtNYjfoJSJ",
+        "reczk1bwmIhiRx7Vy",
+        "recCn5XJf6LTrJe1K"
+      ],
+      "Platz 2": [
+        "recvHrp7cEoKb2vqC"
+      ],
+      "Platz 1": [
+        "recfl2ntQuGOlBdPh",
+        "rechnLCrR75uO1GP9",
+        "reclp6qD10JAZVbaf",
+        "recusu5G53fldVIN7"
+      ],
+      "Spieler": [
+        "recy7L3F6Q69WOCR0",
+        "rec690s0DQ1lMVtgX"
+      ],
+      "Platz 5": [
+        "recqfYVyxy36Pq8M3"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Beerpong Bavaria",
+      "Teamstärke": 18.55399382024802,
+      "SN Rate Teams": 6,
+      "Heimsiege": 20,
+      "Auswärtssiege": 4,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 24,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 22,
+      "Auswärtsspiele": 6,
+      "Spiele": 28,
+      "DC Heim": 25,
+      "DC Gast": 9,
+      "Ditched Cups": 34,
+      "P1": 4,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 6,
+      "Spielstärke Team": 25.10798764049604,
+      "Spielerzahl": 2,
+      "Winrate": 0.8571428571428571,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.14285714285714285,
+      "Team Elo": 1975
+    }
+  },
+  {
+    "id": "recdMHr2B3SRi0AT6",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec6iVuahVLCqBGus",
+        "recMUvUgnKg7WzBAJ",
+        "recA6vnCxmb2khVpI",
+        "rectlrH1lm4r4Q17j",
+        "reclPYQug0yzaeRtj"
+      ],
+      "Platz 4": [
+        "reclp6qD10JAZVbaf",
+        "recusu5G53fldVIN7"
+      ],
+      "Gespielte Spiele Heim": [
+        "recJKE884uA4IRGxz",
+        "recIVs4bx1azFFr3x",
+        "recLeBjC3ziBBAGHv",
+        "recJ12IAS6cmFAybu"
+      ],
+      "Spieler": [
+        "recLu2wGRaYoFoTYf",
+        "recad29um5PDIYLQy"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Kevin Grillt",
+      "Teamstärke": 10.845976361824974,
+      "SN Rate Teams": 0.8,
+      "Heimsiege": 3,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 4,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 5,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 5,
+      "Spiele": 9,
+      "DC Heim": 5,
+      "DC Gast": 2,
+      "Ditched Cups": 7,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 2,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 20.091952723649946,
+      "Spielerzahl": 2,
+      "Winrate": 0.4444444444444444,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5555555555555556,
+      "Team Elo": 1634
+    }
+  },
+  {
+    "id": "recdzSrup8jJyKQ2i",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recoVIAgSdvnNr7ur",
+        "recOdSdlEDEJqIQkX",
+        "rec9XkjdM8jSizXzK",
+        "rec15h7kTbXxg4hir",
+        "rechIF1Rgj6LxoCTN",
+        "recVYrRCNzKg3Idhh",
+        "recR21eZvezmShmdU",
+        "recF3E6OoOIdsAguG",
+        "recVeL4nzDTwjNJKw",
+        "recndJq6XXM2M9Ppt",
+        "recai8bApSiZLHJFG",
+        "recNgQiBTgFuEPt3f"
+      ],
+      "Gespielte Spiele Heim": [
+        "recyuriZkmZ1Yd4So",
+        "recjcKLm9gM5qwFBI",
+        "recqBwRqo6kuxCLFv",
+        "recks3FLRRhsSnob8",
+        "recYkgEQ0pnXObeql",
+        "recyTa8yWiAhW42xC",
+        "rec3FPpuO3nZRS2dw",
+        "recTfZFTdukxkNMKy",
+        "recnKcZXR6XClGYio",
+        "recgQgE6vF9Q4uwtg",
+        "recalqPHbmqEMc7SE",
+        "receGbNroZruAO2KP"
+      ],
+      "Platz 2": [
+        "recCFUNz7iDlogRSN"
+      ],
+      "Platz 1": [
+        "recsPXTGjYbj5rnLI",
+        "rec2bRDs0WItCMCzf"
+      ],
+      "Spieler": [
+        "recx5jwjtvbZRqEbq",
+        "rec690s0DQ1lMVtgX"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Die mongolischen Playboys",
+      "Teamstärke": 14.941905801054737,
+      "SN Rate Teams": 3,
+      "Heimsiege": 7,
+      "Auswärtssiege": 11,
+      "Heimniederlagen": 5,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 18,
+      "Niederlagen": 6,
+      "Unentschieden": 0,
+      "Heimspiele": 12,
+      "Auswärtsspiele": 12,
+      "Spiele": 24,
+      "DC Heim": 15,
+      "DC Gast": 29,
+      "Ditched Cups": 44,
+      "P1": 2,
+      "P2": 1,
+      "P3": 0,
+      "P4": 1,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 4,
+      "Spielstärke Team": 23.883811602109475,
+      "Spielerzahl": 2,
+      "Winrate": 0.75,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.25,
+      "Team Elo": 2038,
+      "Platz 4": [
+        "reciykPtFVhPwsT8C"
+      ]
+    }
+  },
+  {
+    "id": "receDe6MrD0D8RJ30",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recCmZW1kzaSfUA3b",
+        "recSWMS2kc22nu3iY",
+        "recZEOU0z87JtyQC8"
+      ],
+      "Gespielte Spiele Heim": [
+        "recGEyUawLNZ2CJbf",
+        "recv5ifRLU4PAc5Ze",
+        "recSUCxGaFMYffvsQ",
+        "recpZPMYtk0rCVQ8b",
+        "recnn6GlpVrwEuEOD",
+        "recnFjc1Ekw5EwBZa"
+      ],
+      "Platz 2": [
+        "rechnLCrR75uO1GP9"
+      ],
+      "Platz 3": [
+        "recfl2ntQuGOlBdPh"
+      ],
+      "Spieler": [
+        "recad29um5PDIYLQy",
+        "recS58nGNGXL0fPXQ"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Ron on the Kev",
+      "Teamstärke": 10.234127278890362,
+      "SN Rate Teams": 2,
+      "Heimsiege": 6,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 6,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 6,
+      "Auswärtsspiele": 3,
+      "Spiele": 9,
+      "DC Heim": 6,
+      "DC Gast": 0,
+      "Ditched Cups": 6,
+      "P1": 0,
+      "P2": 1,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 16.468254557780725,
+      "Spielerzahl": 2,
+      "Winrate": 0.6666666666666666,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.3333333333333333,
+      "Team Elo": 1549
+    }
+  },
+  {
+    "id": "recfs339qUXqJV776",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Heim": [
+        "rec1euAtsmgptb2Ap",
+        "recRO3FRg5PgnLaJh",
+        "recjwBoTTEewm5RVQ",
+        "recRsYSrpAmCFsplv",
+        "recvou7jUfHp8nBQT"
+      ],
+      "Spieler": [
+        "recmbsUPuBLLoTkmG",
+        "recmVFcSZ4iutuVrs"
+      ],
+      "Platz 5": [
+        "rec7fIXZwy1riKamx"
+      ],
+      "Champs": "Nein",
+      "Teamname": "90’s trifft Millenium",
+      "Teamstärke": 5.13744303126656,
+      "SN Rate Teams": 1.5,
+      "Heimsiege": 3,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 5,
+      "Auswärtsspiele": 0,
+      "Spiele": 5,
+      "DC Heim": 5,
+      "DC Gast": 0,
+      "Ditched Cups": 5,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 7.27488606253312,
+      "Spielerzahl": 2,
+      "Winrate": 0.6,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.4,
+      "Team Elo": 1189
+    }
+  },
+  {
+    "id": "recg7Xxh6Mseql5V9",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recFT63VIf8mbGx3k",
+        "recUiCm25X2eCWJYZ"
+      ],
+      "Gespielte Spiele Heim": [
+        "recBCKMxoZWBd6Cu8",
+        "rec6LbpaHaH9vBkwP",
+        "rec6xiY7IuVIzHBia"
+      ],
+      "Spieler": [
+        "recAavjq4A6UYYMl2",
+        "recpX0ZJPTiCx9OEN",
+        "recmbsUPuBLLoTkmG"
+      ],
+      "Platz 5": [
+        "recZWdpgFaxdkQaIa"
+      ],
+      "Champs": "Nein",
+      "Teamname": "JP und die Niggaz",
+      "Teamstärke": 6.078792634674988,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 2,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 2,
+      "Spiele": 5,
+      "DC Heim": 3,
+      "DC Gast": 0,
+      "Ditched Cups": 3,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 16.236377904024963,
+      "Spielerzahl": 3,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1278
+    }
+  },
+  {
+    "id": "rechZmwuaqZzxVU6Q",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec1euAtsmgptb2Ap",
+        "recYrsu2VqpoJn4tW"
+      ],
+      "Platz 4": [
+        "rec7fIXZwy1riKamx"
+      ],
+      "Gespielte Spiele Heim": [
+        "rectA1JDE2b3BFDdO",
+        "recLW1EblJfTjcUIi",
+        "reckUri1QznRs4eT5",
+        "recNr3bwQ91MfJepe"
+      ],
+      "Spieler": [
+        "recLu2wGRaYoFoTYf",
+        "rec9P4X2h46rfIgdS"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Druckrprss",
+      "Teamstärke": 10.015654003050805,
+      "SN Rate Teams": 0.5,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 2,
+      "Spiele": 6,
+      "DC Heim": 9,
+      "DC Gast": 2,
+      "Ditched Cups": 11,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 19.03130800610161,
+      "Spielerzahl": 2,
+      "Winrate": 0.3333333333333333,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6666666666666666,
+      "Team Elo": 1575.5
+    }
+  },
+  {
+    "id": "rechkObCfWCkWCwcg",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recZwaxsXILKridCc"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec2JcWldIGs30TKc",
+        "rec2M0OnD074SVAIO",
+        "recPzIELXkmJku5gO",
+        "recaw8LOOPMEmyL2L"
+      ],
+      "Platz 9": [
+        "reca1v8oJaC9f22N2"
+      ],
+      "Spieler": [
+        "recVEf8fXRdLatYRn",
+        "recAnAvDBPwSVrwpR"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Ass Wide Shut",
+      "Teamstärke": 7.79672342274803,
+      "SN Rate Teams": 0.25,
+      "Heimsiege": 1,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 1,
+      "Spiele": 5,
+      "DC Heim": 4,
+      "DC Gast": 0,
+      "Ditched Cups": 4,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 15.09344684549606,
+      "Spielerzahl": 2,
+      "Winrate": 0.2,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.8,
+      "Team Elo": 1623.5
+    }
+  },
+  {
+    "id": "rechm96S2nVMgTO6a",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "reche9P8hSEe3DMPl",
+        "reculdCqsH8oUBIgN",
+        "rec7c1o5jFJGWjhpN",
+        "recCcqPW8ATMlP84O",
+        "recemJxiRR7luIB0N",
+        "receEadKgA0Nvnllt",
+        "recx0E1ibj2qIIC3I",
+        "reciy5GVGHKeWmYFX",
+        "recIhVJr6TuxwBkVZ",
+        "recFfSAswJDmWFg6F",
+        "rec3IwrLhnv5Mh06r"
+      ],
+      "Gespielte Spiele Heim": [
+        "recwzM3h11rfvg0f4",
+        "recIV7yG8zskg37iL",
+        "recOT7HLulFVU9WTC",
+        "rece825giDd7p2FWw",
+        "recaMTMQVbvTTCDCd",
+        "rec6KoClPtUoX56nd",
+        "recPHBSqyRYWtOhV7",
+        "recndJq6XXM2M9Ppt",
+        "recjIADlppzA2ToSW"
+      ],
+      "Platz 1": [
+        "reca1v8oJaC9f22N2"
+      ],
+      "Spieler": [
+        "recy7L3F6Q69WOCR0",
+        "recad29um5PDIYLQy"
+      ],
+      "Platz 5": [
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Platz 7": [
+        "rec2bRDs0WItCMCzf"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Old Schmatterhand",
+      "Teamstärke": 11.88164799039134,
+      "SN Rate Teams": 1,
+      "Heimsiege": 6,
+      "Auswärtssiege": 4,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 7,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 10,
+      "Niederlagen": 10,
+      "Unentschieden": 0,
+      "Heimspiele": 9,
+      "Auswärtsspiele": 11,
+      "Spiele": 20,
+      "DC Heim": 19,
+      "DC Gast": 8,
+      "Ditched Cups": 27,
+      "P1": 1,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 4,
+      "Spielstärke Team": 21.76329598078268,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1780,
+      "Platz 9": [
+        "reciykPtFVhPwsT8C"
+      ]
+    }
+  },
+  {
+    "id": "rechqE432xspe0BUh",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recJ12IAS6cmFAybu",
+        "rechz49NGCzN3VilS"
+      ],
+      "Gespielte Spiele Heim": [
+        "recRtsNILaQCg6o1Q",
+        "reckTKw9kzsaSwzxE",
+        "recaYM2NTwBAq2qxw"
+      ],
+      "Spieler": [
+        "recVEf8fXRdLatYRn",
+        "recZhDuEBK1GTq1MJ"
+      ],
+      "Platz 5": [
+        "recusu5G53fldVIN7"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Rush on the Lex",
+      "Teamstärke": 5.227085151414844,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 2,
+      "Spiele": 5,
+      "DC Heim": 1,
+      "DC Gast": 2,
+      "Ditched Cups": 3,
+      "P1": 0,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 9.120836969496354,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1492,
+      "Platz 3": [
+        "reciykPtFVhPwsT8C"
+      ]
+    }
+  },
+  {
+    "id": "reciRguE192n2IkVH",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recDX4FIHXG0XGxuW",
+        "rec7TTcgFKCFxChwq",
+        "recr1wtRpV0ktny1R"
+      ],
+      "Platz 4": [
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Gespielte Spiele Heim": [
+        "reccPLBsJIF6vH9fH",
+        "recBFOZ5OyT0BBXxU",
+        "recl8MWJXR0PLlHiQ"
+      ],
+      "Spieler": [
+        "recAavjq4A6UYYMl2",
+        "recmbsUPuBLLoTkmG"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Gudee",
+      "Teamstärke": 6.465624849448379,
+      "SN Rate Teams": 1,
+      "Heimsiege": 1,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 3,
+      "Spiele": 6,
+      "DC Heim": 2,
+      "DC Gast": 4,
+      "Ditched Cups": 6,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.931249698896758,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1289
+    }
+  },
+  {
+    "id": "recj5RoJwddWwd0J8",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rechj7btaSW9vfZ9k",
+        "recpaOHJUfTP2Yebr",
+        "reccdnAbeYCpDEIyn"
+      ],
+      "Platz 4": [
+        "recqfYVyxy36Pq8M3"
+      ],
+      "Gespielte Spiele Heim": [
+        "reciRz4eqxR4JY0Wt",
+        "recR8HfgF9XDPzMOL"
+      ],
+      "Spieler": [
+        "recUKdeqXvDwLUZHZ",
+        "recS58nGNGXL0fPXQ"
+      ],
+      "Champs": "Nein",
+      "Teamname": "SV Hoizoam",
+      "Teamstärke": 5.830208333333333,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 3,
+      "Spiele": 5,
+      "DC Heim": 1,
+      "DC Gast": 2,
+      "Ditched Cups": 3,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.327083333333333,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1635
+    }
+  },
+  {
+    "id": "reckFWoksWkapJwZD",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recCWATeuc9Zf36hI"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec30l1kDjwwACGXs",
+        "rectYuj4hf1G1jk6o"
+      ],
+      "Spieler": [
+        "rectOT3MewcBbVJUo",
+        "rec9P4X2h46rfIgdS"
+      ],
+      "Platz 7": [
+        "recXNgscyQ51dipIW"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Minikin goes Wild",
+      "Teamstärke": 7.406237066870149,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 1,
+      "Spiele": 3,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.812474133740299,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1551
+    }
+  },
+  {
+    "id": "reckPiUGf8zh8uhzy",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recjwBoTTEewm5RVQ",
+        "rec11aSOng6537Za3",
+        "rec5NGvpozKV8yxEn",
+        "recr8qze5E3rWV2Re",
+        "recwG7lfNsoLSvIgw"
+      ],
+      "Platz 9": [
+        "rec7fIXZwy1riKamx"
+      ],
+      "Spieler": [
+        "recpX0ZJPTiCx9OEN",
+        "rec8AtvSNkHPduWNA"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Kauf dir n’ Capri",
+      "Teamstärke": 5.126818845111528,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 4,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 1,
+      "Siege": 0,
+      "Niederlagen": 4,
+      "Unentschieden": 1,
+      "Heimspiele": 0,
+      "Auswärtsspiele": 5,
+      "Spiele": 5,
+      "DC Heim": 0,
+      "DC Gast": 1,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.253637690223057,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 0.8,
+      "Team Elo": 1268
+    }
+  },
+  {
+    "id": "reckQMc2n5XpB1Tg4",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recguUKSxbNst2nlx",
+        "reccPLBsJIF6vH9fH"
+      ],
+      "Gespielte Spiele Heim": [
+        "recAC4hy0xAlNhdde",
+        "recywzOeT207XE4JB"
+      ],
+      "Platz 9": [
+        "recD1VVaiBsKDWeL3"
+      ],
+      "Spieler": [
+        "recmVFcSZ4iutuVrs",
+        "recYE6KaxTMiMyvNm"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Die Krausen Glucken",
+      "Teamstärke": 0.8699999999999998,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 1.7399999999999995,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Nein"
+      ],
+      "Loserate": 1,
+      "Team Elo": 628.5
+    }
+  },
+  {
+    "id": "reckWaSPEO10s6eim",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec3ApyX3lU5KFW7u",
+        "reczZTB0vgHItIdQI",
+        "recVKc7NVzuKV1H5p",
+        "recpdt6FF7BKcJsPz",
+        "recu2HHFIwfwegj4R",
+        "rec53w6rDrechMDBB",
+        "recQ0ZnfHRlfJAslK",
+        "recgWrUYRyqTibKX3"
+      ],
+      "Platz 4": [
+        "recvHrp7cEoKb2vqC",
+        "recP7wRDCggTfDQxI"
+      ],
+      "Gespielte Spiele Heim": [
+        "recqrCrYk8nQyUlyn",
+        "rec8PsWlCvqZH0WCe",
+        "recBerS2xHrBUm0Um",
+        "rec1pDqhfTUHBQgnf",
+        "recoFJMk6PajZtusn",
+        "recDj0DmVEpe45bd1",
+        "recnwk4AqQ0wlHUo1",
+        "recOnoeVm8BtY8fLO",
+        "recVqAB1Rlj1EAuOX",
+        "recGEgoe7mNeVDj12",
+        "recJwMRk5S0g4Xz2l",
+        "rec4ZOEyf6lteAyLW",
+        "recVvZgPihwTz91CK",
+        "recqJ09KhguYjYG8m",
+        "recmF2yVViaTdfhXc",
+        "rec4Rmx2SUb6AVbZk",
+        "reculdCqsH8oUBIgN"
+      ],
+      "Platz 9": [
+        "recCFUNz7iDlogRSN"
+      ],
+      "Spieler": [
+        "recmbsUPuBLLoTkmG",
+        "recAavjq4A6UYYMl2"
+      ],
+      "Platz 5": [
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Wu-Scha",
+      "Platz 10": [
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Teamstärke": 5.8773895553307325,
+      "SN Rate Teams": 0.4117647058823529,
+      "Heimsiege": 6,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 10,
+      "Auswärtsniederlagen": 7,
+      "Heimunentschieden": 1,
+      "Auswärtsunentschieden": 0,
+      "Siege": 7,
+      "Niederlagen": 17,
+      "Unentschieden": 1,
+      "Heimspiele": 17,
+      "Auswärtsspiele": 8,
+      "Spiele": 25,
+      "DC Heim": 23,
+      "DC Gast": 4,
+      "Ditched Cups": 27,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 2,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 1,
+      "Teilnahmen": 5,
+      "Spielstärke Team": 10.931249698896758,
+      "Spielerzahl": 2,
+      "Winrate": 0.28,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.68,
+      "Team Elo": 1289
+    }
+  },
+  {
+    "id": "reckvTf3TveLjGFR7",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recYP4dzFz52CqJzm",
+        "recSJBP60ysdIEVAN",
+        "reciNAvgnsUGioDaK",
+        "recqVH3UUteW4QbrT",
+        "rec9TLaVFRnMQQUe1",
+        "recQPRc4vI6pwyCw3",
+        "rec5I1SngFFLf4pej",
+        "recKbh8EBmF0WUJCf",
+        "recl8MWJXR0PLlHiQ",
+        "recMOuhRFH2tFV0ur",
+        "recvou7jUfHp8nBQT",
+        "recXRvkqjNc6goMDR",
+        "reczgSxIAy95FSdX2",
+        "recShDZkzf432rtQr",
+        "recZvUDjVvWOfJpdh",
+        "recyMfDMBG8TAWc5u",
+        "rec6KoClPtUoX56nd",
+        "reco2xMnJtdxofdp7",
+        "recXEjtA8o6eVaN2e",
+        "recgu1qZHuBSVFVpa",
+        "recsvQRi65XILctjG",
+        "recnKcZXR6XClGYio",
+        "recjIADlppzA2ToSW",
+        "rech09GxD4uHHsXVC"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec0zTyuBQ7ccLB8v",
+        "recQ7SxvYnmFJfkhN",
+        "recwbnnGdmliTkH4w",
+        "reca7qmv3MqHAKhFu",
+        "rectIo7Nra3bVbugZ",
+        "recMiVdmjauE1bFjv",
+        "rec5ONfbft56acfnL",
+        "rec9XkjdM8jSizXzK",
+        "recR6snMbgTwPnaUL",
+        "recpBxhVmp3y3o1s0",
+        "recgZvEA5rU5bgbCt",
+        "recUBX0TyVrGplY83",
+        "rec53w6rDrechMDBB",
+        "recyu7l3lxVFyvZeF",
+        "recTvbQ2LH1Ics5ex",
+        "recwG7lfNsoLSvIgw",
+        "recZwaxsXILKridCc",
+        "recU7vahFYLl4HLB6",
+        "recboczWdCotdCE28",
+        "recHqbGkIQO0XhbuG",
+        "recx0E1ibj2qIIC3I",
+        "recj0cndhnJl9z4E2",
+        "reciy5GVGHKeWmYFX",
+        "recF3E6OoOIdsAguG",
+        "recOkjG5x9tGn8UuF"
+      ],
+      "Platz 2": [
+        "recq1pJ73w5YqpEes",
+        "rec7fIXZwy1riKamx"
+      ],
+      "Platz 8": [
+        "recsPXTGjYbj5rnLI"
+      ],
+      "Platz 3": [
+        "recD1VVaiBsKDWeL3",
+        "reca1v8oJaC9f22N2",
+        "rec2bRDs0WItCMCzf"
+      ],
+      "Spieler": [
+        "recbByPMkCQOlobCw",
+        "recKowTbexOONjz1L"
+      ],
+      "Platz 7": [
+        "recCFUNz7iDlogRSN"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Team Kentsch",
+      "Platz 10": [
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Teamstärke": 7.115906301145662,
+      "SN Rate Teams": 0.8461538461538461,
+      "Heimsiege": 10,
+      "Auswärtssiege": 12,
+      "Heimniederlagen": 14,
+      "Auswärtsniederlagen": 12,
+      "Heimunentschieden": 1,
+      "Auswärtsunentschieden": 0,
+      "Siege": 22,
+      "Niederlagen": 26,
+      "Unentschieden": 1,
+      "Heimspiele": 25,
+      "Auswärtsspiele": 24,
+      "Spiele": 49,
+      "DC Heim": 23,
+      "DC Gast": 21,
+      "Ditched Cups": 44,
+      "P1": 0,
+      "P2": 2,
+      "P3": 3,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 1,
+      "P8": 1,
+      "P9": 0,
+      "P10": 1,
+      "Teilnahmen": 9,
+      "Spielstärke Team": 12.539504909983632,
+      "Spielerzahl": 2,
+      "Winrate": 0.4489795918367347,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5306122448979592,
+      "Team Elo": 1659,
+      "Platz 5": [
+        "reciykPtFVhPwsT8C"
+      ]
+    }
+  },
+  {
+    "id": "reclEwMEZjCaFQX6X",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recltTfEBN7MEm177",
+        "recBerS2xHrBUm0Um"
+      ],
+      "Gespielte Spiele Heim": [
+        "recoCAE6QPgDq3Ob5",
+        "reciVoYWLFY7d5EK8"
+      ],
+      "Spieler": [
+        "recpX0ZJPTiCx9OEN",
+        "recUKdeqXvDwLUZHZ"
+      ],
+      "Platz 7": [
+        "recvHrp7cEoKb2vqC"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Grünchen",
+      "Teamstärke": 4.162564102564103,
+      "SN Rate Teams": 0,
+      "Heimsiege": 2,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 4,
+      "Niederlagen": 0,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 5,
+      "DC Gast": 3,
+      "Ditched Cups": 8,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 8.325128205128205,
+      "Spielerzahl": 2,
+      "Winrate": 1,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Nein"
+      ],
+      "Loserate": 0,
+      "Team Elo": 1554.5
+    }
+  },
+  {
+    "id": "recmz1CaFQpw5Wzel",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recJNjI89Eaj4xHqA",
+        "reccqe3QUdNqlw0qb",
+        "recqJ09KhguYjYG8m",
+        "recmF2yVViaTdfhXc",
+        "rec0niFbtiBjNhmaB",
+        "recZKuG07g5TzfVRI",
+        "recwyiuW7gJlVUhEK"
+      ],
+      "Gespielte Spiele Heim": [
+        "recH93LWyXaevf94F",
+        "recI2lIqFeAyzFonP",
+        "rec3RA5OSjTs02xvo"
+      ],
+      "Platz 8": [
+        "recP7wRDCggTfDQxI",
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Spieler": [
+        "recVEf8fXRdLatYRn",
+        "rec3sgJIM2UKB3iys"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Team Seximon",
+      "Teamstärke": 5.296799437129129,
+      "SN Rate Teams": 0.2857142857142857,
+      "Heimsiege": 0,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 5,
+      "Heimunentschieden": 1,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 7,
+      "Unentschieden": 1,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 7,
+      "Spiele": 10,
+      "DC Heim": 5,
+      "DC Gast": 6,
+      "Ditched Cups": 11,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 2,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 10.022170302829688,
+      "Spielerzahl": 2,
+      "Winrate": 0.2,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.7,
+      "Team Elo": 1279
+    }
+  },
+  {
+    "id": "recn9Osl8muQdYbTK",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec0bM4UgF1JrX7LJ",
+        "recPzIELXkmJku5gO",
+        "rechhdgiv3Y34yQrZ",
+        "recC7rgV5MZ3E22dQ",
+        "recboczWdCotdCE28"
+      ],
+      "Gespielte Spiele Heim": [
+        "recxGvJhF90SZvNwX",
+        "recL56ZOzB8cPAodt",
+        "recz6w928K45peiBg",
+        "reche9P8hSEe3DMPl",
+        "recZKuG07g5TzfVRI",
+        "recgWrUYRyqTibKX3",
+        "recbnjDtXwKIv9DNN",
+        "reckPsZ1fKANgaWQ7",
+        "recCcqPW8ATMlP84O"
+      ],
+      "Platz 2": [
+        "reca1v8oJaC9f22N2"
+      ],
+      "Platz 1": [
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Spieler": [
+        "rec690s0DQ1lMVtgX",
+        "recx5jwjtvbZRqEbq"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Bangers 089",
+      "Teamstärke": 17.941905801054737,
+      "SN Rate Teams": 6,
+      "Heimsiege": 7,
+      "Auswärtssiege": 5,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 0,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 12,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 9,
+      "Auswärtsspiele": 5,
+      "Spiele": 14,
+      "DC Heim": 20,
+      "DC Gast": 19,
+      "Ditched Cups": 39,
+      "P1": 1,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 23.883811602109475,
+      "Spielerzahl": 2,
+      "Winrate": 0.8571428571428571,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.14285714285714285,
+      "Team Elo": 2038
+    }
+  },
+  {
+    "id": "recner5k0R3vL42KG",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "reclMgwJTcGHp468E",
+        "recJKE884uA4IRGxz",
+        "recNYKfyrrIZ5FwxY"
+      ],
+      "Gespielte Spiele Heim": [
+        "recQSlg6GadxVYlE0"
+      ],
+      "Spieler": [
+        "recmbsUPuBLLoTkmG",
+        "recF1ObpDr3Zmk8j8"
+      ],
+      "Platz 5": [
+        "reclp6qD10JAZVbaf"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Die Kleinen",
+      "Teamstärke": 6.921127241792877,
+      "SN Rate Teams": 0.3333333333333333,
+      "Heimsiege": 1,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 1,
+      "Auswärtsspiele": 3,
+      "Spiele": 4,
+      "DC Heim": 1,
+      "DC Gast": 0,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 13.175587816919087,
+      "Spielerzahl": 2,
+      "Winrate": 0.25,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.75,
+      "Team Elo": 1395
+    }
+  },
+  {
+    "id": "recntosFDfEPsmezE",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec0ZtTC7yww1cz0Z",
+        "recmvjNdgw0k4AJNs"
+      ],
+      "Gespielte Spiele Heim": [
+        "recvrKLubRLN7XZ7h",
+        "recv52mpA6rxGihVi",
+        "recyq307t5R0hvi0l"
+      ],
+      "Platz 2": [
+        "recXNgscyQ51dipIW"
+      ],
+      "Spieler": [
+        "recS58nGNGXL0fPXQ",
+        "recad29um5PDIYLQy"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Sören Kierkegaard",
+      "Teamstärke": 9.734127278890362,
+      "SN Rate Teams": 1.5,
+      "Heimsiege": 2,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 2,
+      "Spiele": 5,
+      "DC Heim": 5,
+      "DC Gast": 2,
+      "Ditched Cups": 7,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 16.468254557780725,
+      "Spielerzahl": 2,
+      "Winrate": 0.6,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.4,
+      "Team Elo": 1549
+    }
+  },
+  {
+    "id": "reco8qeJnx8L3rm91",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rechk02QSL55WXmul",
+        "recM1GJBfzvvRUDd4",
+        "recl51GYlXBUTFKWb",
+        "recsPp32tEiHxCZ1y",
+        "recGEyUawLNZ2CJbf"
+      ],
+      "Platz 6": [
+        "recfl2ntQuGOlBdPh"
+      ],
+      "Spieler": [
+        "rec1e4za05wVg6O48",
+        "recIBb6nUpArwYe9d"
+      ],
+      "Champs": "Nein",
+      "Teamname": "(unbekannt)",
+      "Teamstärke": 2.3578571428571427,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 5,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 5,
+      "Unentschieden": 0,
+      "Heimspiele": 0,
+      "Auswärtsspiele": 5,
+      "Spiele": 5,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 4.715714285714285,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Nein"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1006
+    }
+  },
+  {
+    "id": "recoejYIY29isY3MQ",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recr7bmaaNgaPtxbj",
+        "recQ7SxvYnmFJfkhN",
+        "recFYAv8XWP3hqYD7",
+        "recygJ3o8f4Scmauy",
+        "rec6LbpaHaH9vBkwP",
+        "recWJ9EHNgtjOAjfS"
+      ],
+      "Gespielte Spiele Heim": [
+        "recrQNjnmiTSX8S4j",
+        "rectLlo1F5il6C01m"
+      ],
+      "Platz 8": [
+        "recZWdpgFaxdkQaIa"
+      ],
+      "Platz 6": [
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Spieler": [
+        "rec690s0DQ1lMVtgX",
+        "recad29um5PDIYLQy"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Masters of Beerpong",
+      "Teamstärke": 11.433517054304074,
+      "SN Rate Teams": 0.6,
+      "Heimsiege": 1,
+      "Auswärtssiege": 2,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 4,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 3,
+      "Niederlagen": 5,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 6,
+      "Spiele": 8,
+      "DC Heim": 2,
+      "DC Gast": 4,
+      "Ditched Cups": 6,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 21.66703410860815,
+      "Spielerzahl": 2,
+      "Winrate": 0.375,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.625,
+      "Team Elo": 1876
+    }
+  },
+  {
+    "id": "recp0gnqDMryOsAd2",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec0Ot9alPS7A58gQ",
+        "recnvHRHS1ETacfGS",
+        "rec8wvjIbPrSvVHAI"
+      ],
+      "Gespielte Spiele Heim": [
+        "recbAco60qSUHYIAT",
+        "recwyiuW7gJlVUhEK"
+      ],
+      "Spieler": [
+        "recbByPMkCQOlobCw",
+        "recKowTbexOONjz1L"
+      ],
+      "Platz 7": [
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Is ma Sagge",
+      "Teamstärke": 6.936419121658483,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 3,
+      "Spiele": 5,
+      "DC Heim": 3,
+      "DC Gast": 4,
+      "Ditched Cups": 7,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 12.539504909983632,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.6,
+      "Team Elo": 1659
+    }
+  },
+  {
+    "id": "recpssln1soIAXzBS",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recRQSzopPZdrSdYU",
+        "rec4OTPpnkQh9Jcv7",
+        "recH93LWyXaevf94F",
+        "recGEgoe7mNeVDj12",
+        "recJwMRk5S0g4Xz2l",
+        "recW1FDbEbl7mXzoL",
+        "recwzM3h11rfvg0f4",
+        "rec2JcWldIGs30TKc",
+        "rec2M0OnD074SVAIO",
+        "recbnjDtXwKIv9DNN",
+        "recIJBp61HpSTEO4J",
+        "recU7vahFYLl4HLB6"
+      ],
+      "Gespielte Spiele Heim": [
+        "recO7QFYNF8ceOgkP",
+        "rec0bM4UgF1JrX7LJ",
+        "recQ0ZnfHRlfJAslK",
+        "rechhdgiv3Y34yQrZ"
+      ],
+      "Platz 2": [
+        "recP7wRDCggTfDQxI"
+      ],
+      "Platz 8": [
+        "reca1v8oJaC9f22N2"
+      ],
+      "Platz 9": [
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Spieler": [
+        "recF1ObpDr3Zmk8j8",
+        "reccJI5PDnA7THyRr"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Auswärtsspiel",
+      "Teamstärke": 7.714016100858207,
+      "SN Rate Teams": 0.6666666666666666,
+      "Heimsiege": 1,
+      "Auswärtssiege": 5,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 6,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 1,
+      "Siege": 6,
+      "Niederlagen": 9,
+      "Unentschieden": 1,
+      "Heimspiele": 4,
+      "Auswärtsspiele": 12,
+      "Spiele": 16,
+      "DC Heim": 3,
+      "DC Gast": 14,
+      "Ditched Cups": 17,
+      "P1": 0,
+      "P2": 1,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 1,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 3,
+      "Spielstärke Team": 14.09469886838308,
+      "Spielerzahl": 2,
+      "Winrate": 0.375,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5625,
+      "Team Elo": 1448
+    }
+  },
+  {
+    "id": "recr0qowIzrDWH0ql",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recwGzt0zGciQJTVu",
+        "recDj0DmVEpe45bd1"
+      ],
+      "Gespielte Spiele Heim": [
+        "recnxCZYdqx83L2Mz",
+        "recLJAy1qiCo3pWeD"
+      ],
+      "Platz 9": [
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Spieler": [
+        "recac1hbRq3Fz8rCy",
+        "recx5jwjtvbZRqEbq"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Vollsuff",
+      "Teamstärke": 6.264974358974359,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 1,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 12.529948717948718,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1452.5
+    }
+  },
+  {
+    "id": "recreoLY7OwUf3KDd",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rechJWhw6MlMs8QSu",
+        "recnFjc1Ekw5EwBZa"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec18vYYRWCCUewhE",
+        "recNY6PgJZLWz09sP"
+      ],
+      "Platz 3": [
+        "rechnLCrR75uO1GP9"
+      ],
+      "Spieler": [
+        "recLu2wGRaYoFoTYf",
+        "recx5jwjtvbZRqEbq"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Weltmacht SA",
+      "Teamstärke": 12.154365108575636,
+      "SN Rate Teams": 1,
+      "Heimsiege": 2,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 2,
+      "DC Gast": 0,
+      "Ditched Cups": 2,
+      "P1": 0,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 22.308730217151272,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1796
+    }
+  },
+  {
+    "id": "recsjrRm9nLK93Z6X",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec2Wf6hHE6j3Rgad",
+        "recI2lIqFeAyzFonP",
+        "recaSHvnco7ujeuxN",
+        "rece825giDd7p2FWw",
+        "recaMTMQVbvTTCDCd",
+        "recjchCGgJYbDFKKX",
+        "recaTbG7UjoLmGbic",
+        "recTfZFTdukxkNMKy"
+      ],
+      "Platz 4": [
+        "rec9Rv2oUju6pBPrJ"
+      ],
+      "Gespielte Spiele Heim": [
+        "recwisl8xlh7S9ckj",
+        "rec0A2A5vXFzmYIzv",
+        "recgpyW07uoLbU6t0",
+        "rec0Ot9alPS7A58gQ",
+        "recnvHRHS1ETacfGS",
+        "recpN5EFLrmnhEpqt",
+        "recrurdnVDbFSVUNt"
+      ],
+      "Spieler": [
+        "rec2vp6AU15oa7h8r",
+        "recLu2wGRaYoFoTYf"
+      ],
+      "Platz 5": [
+        "rec2bRDs0WItCMCzf"
+      ],
+      "Platz 7": [
+        "reca1v8oJaC9f22N2"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Die Schöne und das Biest",
+      "Teamstärke": 8.955390749601277,
+      "SN Rate Teams": 0.75,
+      "Heimsiege": 3,
+      "Auswärtssiege": 3,
+      "Heimniederlagen": 4,
+      "Auswärtsniederlagen": 4,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 1,
+      "Siege": 6,
+      "Niederlagen": 8,
+      "Unentschieden": 1,
+      "Heimspiele": 7,
+      "Auswärtsspiele": 8,
+      "Spiele": 15,
+      "DC Heim": 5,
+      "DC Gast": 9,
+      "Ditched Cups": 14,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 1,
+      "P5": 1,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 3,
+      "Spielstärke Team": 16.410781499202553,
+      "Spielerzahl": 2,
+      "Winrate": 0.4,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5333333333333333,
+      "Team Elo": 1465.5
+    }
+  },
+  {
+    "id": "recsliRK1l04loo25",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec3Jjtd0Rx3PUdiY",
+        "rec4t3zMGKpY2AYT9"
+      ],
+      "Gespielte Spiele Heim": [
+        "rec8cnuMPPONnis7Q",
+        "rec8K0QaJVWAk18wA"
+      ],
+      "Spieler": [
+        "rec1e4za05wVg6O48",
+        "rec6HHctEtePvkoqD"
+      ],
+      "Platz 5": [
+        "recvHrp7cEoKb2vqC"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Ka+Ka",
+      "Teamstärke": 3.057428571428572,
+      "SN Rate Teams": 1,
+      "Heimsiege": 2,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 6,
+      "DC Gast": 0,
+      "Ditched Cups": 6,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 1,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 4.114857142857144,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Nein"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1243.5
+    }
+  },
+  {
+    "id": "recsnszTJntlqySRP",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recCn5XJf6LTrJe1K",
+        "rec1gibTyPUwd1Ek2"
+      ],
+      "Gespielte Spiele Heim": [
+        "recltTfEBN7MEm177",
+        "reczZTB0vgHItIdQI"
+      ],
+      "Platz 8": [
+        "recvHrp7cEoKb2vqC"
+      ],
+      "Spieler": [
+        "rectOT3MewcBbVJUo",
+        "rec9P4X2h46rfIgdS"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Two and a Half Waidler",
+      "Teamstärke": 8.40623706687015,
+      "SN Rate Teams": 1,
+      "Heimsiege": 1,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 2,
+      "Niederlagen": 2,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 1,
+      "DC Gast": 2,
+      "Ditched Cups": 3,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 14.812474133740299,
+      "Spielerzahl": 2,
+      "Winrate": 0.5,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.5,
+      "Team Elo": 1551
+    }
+  },
+  {
+    "id": "rect6llqcf9uEp9gp",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recRsYSrpAmCFsplv",
+        "recx0giDJabIixJGK",
+        "rec0RAdqh0hhravZx",
+        "recygBf8NlXus6w8G"
+      ],
+      "Gespielte Spiele Heim": [
+        "recYrsu2VqpoJn4tW",
+        "recMyJizhSvnIzJCV",
+        "reczpbeQgKNEylTHb",
+        "recr8qze5E3rWV2Re",
+        "recShDZkzf432rtQr",
+        "recZvUDjVvWOfJpdh",
+        "recURT4N9xDcIBhJ6",
+        "rec1gdwEFs6jEBvjC"
+      ],
+      "Platz 1": [
+        "rec7fIXZwy1riKamx"
+      ],
+      "Platz 6": [
+        "recP7wRDCggTfDQxI"
+      ],
+      "Spieler": [
+        "recy7L3F6Q69WOCR0",
+        "recuWQdGWriHrLbUf"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Long Pong Silver",
+      "Teamstärke": 12.948837642119377,
+      "SN Rate Teams": 2,
+      "Heimsiege": 8,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 4,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 8,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 8,
+      "Auswärtsspiele": 4,
+      "Spiele": 12,
+      "DC Heim": 18,
+      "DC Gast": 0,
+      "Ditched Cups": 18,
+      "P1": 1,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 21.897675284238755,
+      "Spielerzahl": 2,
+      "Winrate": 0.6666666666666666,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.3333333333333333,
+      "Team Elo": 1793
+    }
+  },
+  {
+    "id": "rectGk13zmhqp5Ufn",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recLeBjC3ziBBAGHv",
+        "recrWc6W9f7YwXDhK",
+        "recT3lln5tTVKiXs9"
+      ],
+      "Gespielte Spiele Heim": [
+        "recKHTXIfjXMBo4wV",
+        "rechz49NGCzN3VilS"
+      ],
+      "Platz 6": [
+        "recusu5G53fldVIN7"
+      ],
+      "Spieler": [
+        "recIBb6nUpArwYe9d",
+        "recF1ObpDr3Zmk8j8"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Klaus Peter Christl",
+      "Teamstärke": 5.326779448621554,
+      "SN Rate Teams": 0.25,
+      "Heimsiege": 1,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 1,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 3,
+      "Spiele": 5,
+      "DC Heim": 1,
+      "DC Gast": 0,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.153558897243109,
+      "Spielerzahl": 2,
+      "Winrate": 0.2,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 0.8,
+      "Team Elo": 1169.5
+    }
+  },
+  {
+    "id": "rectOb9wY08id9YGn",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "rec315QGrk9Pt43Eo",
+        "rectA1JDE2b3BFDdO"
+      ],
+      "Gespielte Spiele Heim": [
+        "recBiVpD6m7TdMqrz",
+        "recelkGbtchCwEgsB"
+      ],
+      "Spieler": [
+        "recVEf8fXRdLatYRn",
+        "recCZexIFUMSd7tB2",
+        "rec3sgJIM2UKB3iys"
+      ],
+      "Platz 7": [
+        "rec7fIXZwy1riKamx"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Die Hodinnen und ihr Sackl",
+      "Teamstärke": 4.247390100943229,
+      "SN Rate Teams": 0.3333333333333333,
+      "Heimsiege": 0,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 2,
+      "Spiele": 4,
+      "DC Heim": 1,
+      "DC Gast": 9,
+      "Ditched Cups": 10,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 11.742170302829688,
+      "Spielerzahl": 3,
+      "Winrate": 0.25,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 0.75,
+      "Team Elo": 1227.3333333333333
+    }
+  },
+  {
+    "id": "recvGOmAMFPxUOlkg",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recqKfUQWqyo0oaSv",
+        "recnltzUtNYjfoJSJ",
+        "recCOMtWTvI0501ol",
+        "rec1pDqhfTUHBQgnf",
+        "reconJ8PluHKebtcG",
+        "rectZlW9NKlLvkR5h",
+        "rectYuj4hf1G1jk6o",
+        "recKfY3EybXIVve9o",
+        "rectLlo1F5il6C01m"
+      ],
+      "Gespielte Spiele Heim": [
+        "recxsRCUvg93iEIz0",
+        "rec4t3zMGKpY2AYT9",
+        "recURTwIp1xqwlV7G",
+        "recTSHsOq50jBwY31",
+        "recGZRpDfo10OBAFB",
+        "recSJBP60ysdIEVAN",
+        "rec9JQFX06SDlQTWW",
+        "recuSaoUGWCA4R7K9",
+        "recly3pUkuyRtjVHJ"
+      ],
+      "Platz 1": [
+        "recvHrp7cEoKb2vqC"
+      ],
+      "Platz 8": [
+        "reckcL6F3XuQsbrXU"
+      ],
+      "Platz 3": [
+        "recXNgscyQ51dipIW"
+      ],
+      "Spieler": [
+        "recF1ObpDr3Zmk8j8",
+        "reccJI5PDnA7THyRr"
+      ],
+      "Platz 7": [
+        "recZWdpgFaxdkQaIa"
+      ],
+      "Champs": "Ja",
+      "Teamname": "Heimspiel",
+      "Teamstärke": 8.475920862762969,
+      "SN Rate Teams": 1.4285714285714286,
+      "Heimsiege": 4,
+      "Auswärtssiege": 6,
+      "Heimniederlagen": 5,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 1,
+      "Siege": 10,
+      "Niederlagen": 7,
+      "Unentschieden": 1,
+      "Heimspiele": 9,
+      "Auswärtsspiele": 9,
+      "Spiele": 18,
+      "DC Heim": 13,
+      "DC Gast": 17,
+      "Ditched Cups": 30,
+      "P1": 1,
+      "P2": 0,
+      "P3": 1,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 1,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 4,
+      "Spielstärke Team": 14.09469886838308,
+      "Spielerzahl": 2,
+      "Winrate": 0.5555555555555556,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.3888888888888889,
+      "Team Elo": 1448
+    }
+  },
+  {
+    "id": "recvX4C5JirtWskvi",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recRyotUO5NLxfrCz",
+        "rec8K0QaJVWAk18wA",
+        "recv52mpA6rxGihVi",
+        "recZr49JpGAt9VsIa"
+      ],
+      "Gespielte Spiele Heim": [
+        "recg4L6M168drHhFl",
+        "recCOMtWTvI0501ol",
+        "recq5Gfb8vGjpoKkX"
+      ],
+      "Platz 8": [
+        "recXNgscyQ51dipIW"
+      ],
+      "Spieler": [
+        "recbByPMkCQOlobCw",
+        "recKowTbexOONjz1L"
+      ],
+      "Champs": "Nein",
+      "Teamname": "K+K",
+      "Platz 10": [
+        "recvHrp7cEoKb2vqC"
+      ],
+      "Teamstärke": 6.269752454991816,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 4,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 7,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 4,
+      "Spiele": 7,
+      "DC Heim": 0,
+      "DC Gast": 1,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 1,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 12.539504909983632,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1659
+    }
+  },
+  {
+    "id": "recwYR5d8dFymUb3o",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recgYMBQFdOwzxmkh",
+        "recURTwIp1xqwlV7G",
+        "rec30l1kDjwwACGXs"
+      ],
+      "Gespielte Spiele Heim": [
+        "recd5urJesvgytzdq",
+        "reccdnAbeYCpDEIyn",
+        "recLcZI5ibBPpdzVr"
+      ],
+      "Platz 6": [
+        "recXNgscyQ51dipIW"
+      ],
+      "Spieler": [
+        "recpX0ZJPTiCx9OEN",
+        "recmbsUPuBLLoTkmG"
+      ],
+      "Platz 7": [
+        "recqfYVyxy36Pq8M3"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Die Niggaz",
+      "Teamstärke": 5.700007133830663,
+      "SN Rate Teams": 0.2,
+      "Heimsiege": 0,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 2,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 5,
+      "Unentschieden": 0,
+      "Heimspiele": 3,
+      "Auswärtsspiele": 3,
+      "Spiele": 6,
+      "DC Heim": 0,
+      "DC Gast": 2,
+      "Ditched Cups": 2,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 1,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 11.000014267661326,
+      "Spielerzahl": 2,
+      "Winrate": 0.16666666666666666,
+      "Aktiv (from Spieler)": [
+        "Nein",
+        "Ja"
+      ],
+      "Loserate": 0.8333333333333334,
+      "Team Elo": 1281
+    }
+  },
+  {
+    "id": "recxAhu7IhkiwWtaf",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recdcWM5ssUaETe9O",
+        "recaYM2NTwBAq2qxw",
+        "recwAoj4raV4HWzMY",
+        "recPg5HC8z2hVgEPT",
+        "recEfefRMOQ1GNH8x"
+      ],
+      "Gespielte Spiele Heim": [
+        "reclPYQug0yzaeRtj",
+        "recT3lln5tTVKiXs9",
+        "recUsPodtHoDZCzRc",
+        "rec4yUPmQl07pb8tz",
+        "recTgOCpkqiqf5pgv"
+      ],
+      "Platz 2": [
+        "recusu5G53fldVIN7",
+        "recqfYVyxy36Pq8M3"
+      ],
+      "Spieler": [
+        "recbByPMkCQOlobCw",
+        "recx5jwjtvbZRqEbq"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Wet Sophi",
+      "Teamstärke": 10.535649890889253,
+      "SN Rate Teams": 1.5,
+      "Heimsiege": 2,
+      "Auswärtssiege": 4,
+      "Heimniederlagen": 3,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 6,
+      "Niederlagen": 4,
+      "Unentschieden": 0,
+      "Heimspiele": 5,
+      "Auswärtsspiele": 5,
+      "Spiele": 10,
+      "DC Heim": 11,
+      "DC Gast": 9,
+      "Ditched Cups": 20,
+      "P1": 0,
+      "P2": 2,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 2,
+      "Spielstärke Team": 18.071299781778507,
+      "Spielerzahl": 2,
+      "Winrate": 0.6,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.4,
+      "Team Elo": 1843.5
+    }
+  },
+  {
+    "id": "recxwLdPUAvLx1Xns",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recwifjLxA8KMnbDT"
+      ],
+      "Gespielte Spiele Heim": [
+        "receRAwr2yjBWmmG3",
+        "recPg5HC8z2hVgEPT"
+      ],
+      "Platz 8": [
+        "recqfYVyxy36Pq8M3"
+      ],
+      "Spieler": [
+        "recF1ObpDr3Zmk8j8",
+        "recIBb6nUpArwYe9d"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Der Durchschnitt",
+      "Teamstärke": 5.076779448621554,
+      "SN Rate Teams": 0,
+      "Heimsiege": 0,
+      "Auswärtssiege": 0,
+      "Heimniederlagen": 2,
+      "Auswärtsniederlagen": 1,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 0,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 2,
+      "Auswärtsspiele": 1,
+      "Spiele": 3,
+      "DC Heim": 0,
+      "DC Gast": 0,
+      "Ditched Cups": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 0,
+      "P7": 0,
+      "P8": 1,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 10.153558897243109,
+      "Spielerzahl": 2,
+      "Winrate": 0,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Nein"
+      ],
+      "Loserate": 1,
+      "Team Elo": 1169.5
+    }
+  },
+  {
+    "id": "recy5qhqnsMt8D7Vi",
+    "createdTime": "2022-04-16T15:59:08.000Z",
+    "fields": {
+      "Gespielte Spiele Gast": [
+        "recks3FLRRhsSnob8",
+        "recFAP4C1IBfvPpMN",
+        "reclZrj89Fqhu3134",
+        "rec7n6YRIUf3NElAg"
+      ],
+      "Platz 6": [
+        "recCFUNz7iDlogRSN"
+      ],
+      "Spieler": [
+        "rec9P4X2h46rfIgdS",
+        "recuWQdGWriHrLbUf"
+      ],
+      "Champs": "Nein",
+      "Teamname": "Da Schröder hockt beim Kacken",
+      "Teamstärke": 9.031371850734597,
+      "SN Rate Teams": 0.3333333333333333,
+      "Heimsiege": 0,
+      "Auswärtssiege": 1,
+      "Heimniederlagen": 0,
+      "Auswärtsniederlagen": 3,
+      "Heimunentschieden": 0,
+      "Auswärtsunentschieden": 0,
+      "Siege": 1,
+      "Niederlagen": 3,
+      "Unentschieden": 0,
+      "Heimspiele": 0,
+      "Auswärtsspiele": 4,
+      "Spiele": 4,
+      "DC Heim": 0,
+      "DC Gast": 1,
+      "Ditched Cups": 1,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0,
+      "P4": 0,
+      "P5": 0,
+      "P6": 1,
+      "P7": 0,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "Teilnahmen": 1,
+      "Spielstärke Team": 17.396077034802527,
+      "Spielerzahl": 2,
+      "Winrate": 0.25,
+      "Aktiv (from Spieler)": [
+        "Ja",
+        "Ja"
+      ],
+      "Loserate": 0.75,
+      "Team Elo": 1635.5
+    }
+  }
+]

@@ -2,11 +2,11 @@ from pyairtable import Api, Base, Table
 
 class BeerpongStats:
     def __init__(self, api_key, base_id):
-        self.teams = Table(api_key, base_id, "Teams", timeout=(2, 5))
-        self.matches = Table(api_key, base_id, "Gespielte Spiele", timeout=(2, 5))
-        self.tournament = Table(api_key, base_id, "Turniere", timeout=(2, 5))
-        self.player = Table(api_key, base_id, "Spieler", timeout=(2, 5))
-        self.beer = Table(api_key, base_id, "Bierspender", timeout=(2, 5))
+        self.teams = Table(api_key, base_id, "Teams_old", timeout=(2, 5))
+        self.matches = Table(api_key, base_id, "Gespielte Spiele_old", timeout=(2, 5))
+        self.tournament = Table(api_key, base_id, "Turniere_old", timeout=(2, 5))
+        self.player = Table(api_key, base_id, "Spieler_old", timeout=(2, 5))
+        self.beer = Table(api_key, base_id, "Bierspender_old", timeout=(2, 5))
 
     # Teams
     def getTeams(self):
