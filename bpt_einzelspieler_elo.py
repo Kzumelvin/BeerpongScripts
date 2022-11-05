@@ -18,7 +18,7 @@ spieler = Table(api_key, base_id, "Spieler", timeout=(2, 5))
 playerDict = {}
 matchesArray = []
 tournament = "" #berechnet aktuelles Turnier und die aktuelle differenz.
-AIRTABLE = True # erechnet aktuelle Elo und trägt diese in Tabelle ein.
+AIRTABLE = False # erechnet aktuelle Elo und trägt diese in Tabelle ein.
 i = 1
 
 # Download Player Data
