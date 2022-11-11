@@ -25,11 +25,11 @@ def Ewert_A(elo_A, elo_B):
 
 def k_factor(elo, spiele):
     if spiele<30:
-        return 60
-    elif spiele>=30 and elo<2500:
-        return 40
+        return 90
+    elif spiele >= 30 and elo<2000:
+        return 70
     else:
-        return 15
+        return 30
 
 def new_Elo(elo_Eigen, elo_Gegner, spiele_eigen, punkte):
     k = k_factor(elo_Eigen, spiele_eigen)

@@ -1,156 +1,156 @@
 [
     {
         "Name": "Moritz Fedeneder",
-        "Elo": 1857,
-        "Max_Elo": 1888,
+        "Elo": 2119,
+        "Max_Elo": 2142,
         "Games": 94,
-        "Diff": -31
+        "Diff": -23
     },
     {
         "Name": "Simon Schnitzer",
-        "Elo": 1820,
-        "Max_Elo": 1850,
+        "Elo": 2105,
+        "Max_Elo": 2128,
         "Games": 75,
-        "Diff": -30
-    },
-    {
-        "Name": "Andreas Grill",
-        "Elo": 1679,
-        "Max_Elo": 1679,
-        "Games": 100,
-        "Diff": 17
+        "Diff": -23
     },
     {
         "Name": "Sophia Kentsch",
-        "Elo": 1655,
-        "Max_Elo": 1655,
+        "Elo": 2013,
+        "Max_Elo": 2013,
         "Games": 80,
         "Diff": 0
     },
     {
-        "Name": "Christian Balk",
-        "Elo": 1649,
-        "Max_Elo": 1649,
-        "Games": 81,
-        "Diff": 0
-    },
-    {
-        "Name": "Tobias Grimm",
-        "Elo": 1649,
-        "Max_Elo": 1649,
-        "Games": 59,
-        "Diff": 0
-    },
-    {
-        "Name": "Fabian Baier",
-        "Elo": 1631,
-        "Max_Elo": 1631,
+        "Name": "Andreas Grill",
+        "Elo": 2012,
+        "Max_Elo": 2012,
         "Games": 100,
-        "Diff": 0
-    },
-    {
-        "Name": "Daniel Schröder",
-        "Elo": 1629,
-        "Max_Elo": 1629,
-        "Games": 68,
-        "Diff": 0
+        "Diff": 26
     },
     {
         "Name": "Franziska Kentsch",
-        "Elo": 1626,
-        "Max_Elo": 1626,
+        "Elo": 2011,
+        "Max_Elo": 2011,
         "Games": 65,
         "Diff": 0
     },
     {
+        "Name": "Tobias Grimm",
+        "Elo": 2001,
+        "Max_Elo": 2001,
+        "Games": 59,
+        "Diff": 0
+    },
+    {
+        "Name": "Christian Balk",
+        "Elo": 1996,
+        "Max_Elo": 1996,
+        "Games": 81,
+        "Diff": 0
+    },
+    {
         "Name": "Alexandra Ziegler",
-        "Elo": 1598,
-        "Max_Elo": 1598,
+        "Elo": 1947,
+        "Max_Elo": 1947,
         "Games": 99,
         "Diff": 0
     },
     {
         "Name": "Nico Holopainen",
-        "Elo": 1587,
-        "Max_Elo": 1587,
+        "Elo": 1893,
+        "Max_Elo": 1893,
         "Games": 8,
-        "Diff": 30
+        "Diff": 41
     },
     {
-        "Name": "Sophia Koch",
-        "Elo": 1569,
-        "Max_Elo": 1569,
-        "Games": 21,
+        "Name": "Daniel Schröder",
+        "Elo": 1884,
+        "Max_Elo": 1884,
+        "Games": 68,
         "Diff": 0
     },
     {
-        "Name": "Kevin Haberl",
-        "Elo": 1566,
-        "Max_Elo": 1576,
-        "Games": 92,
-        "Diff": 20
-    },
-    {
-        "Name": "Daniela Gabes",
-        "Elo": 1519,
-        "Max_Elo": 1519,
-        "Games": 47,
+        "Name": "Fabian Baier",
+        "Elo": 1874,
+        "Max_Elo": 1874,
+        "Games": 100,
         "Diff": 0
     },
     {
         "Name": "Ronja Fischer",
-        "Elo": 1492,
-        "Max_Elo": 1492,
+        "Elo": 1848,
+        "Max_Elo": 1848,
         "Games": 96,
         "Diff": 0
     },
     {
+        "Name": "Kevin Haberl",
+        "Elo": 1829,
+        "Max_Elo": 1836,
+        "Games": 92,
+        "Diff": 46
+    },
+    {
+        "Name": "Daniela Gabes",
+        "Elo": 1825,
+        "Max_Elo": 1825,
+        "Games": 47,
+        "Diff": 0
+    },
+    {
+        "Name": "Sophia Koch",
+        "Elo": 1816,
+        "Max_Elo": 1816,
+        "Games": 21,
+        "Diff": 0
+    },
+    {
+        "Name": "Kathrin Kronfeldner",
+        "Elo": 1743,
+        "Max_Elo": 1743,
+        "Games": 41,
+        "Diff": 0
+    },
+    {
+        "Name": "Maria Krysin",
+        "Elo": 1737,
+        "Max_Elo": 1737,
+        "Games": 74,
+        "Diff": 0
+    },
+    {
+        "Name": "Selina Holmer",
+        "Elo": 1734,
+        "Max_Elo": 1734,
+        "Games": 25,
+        "Diff": 0
+    },
+    {
+        "Name": "Jasmin Kerscher",
+        "Elo": 1734,
+        "Max_Elo": 1734,
+        "Games": 9,
+        "Diff": 0
+    },
+    {
         "Name": "Paul Ilmberger",
-        "Elo": 1432,
-        "Max_Elo": 1432,
+        "Elo": 1725,
+        "Max_Elo": 1725,
         "Games": 10,
         "Diff": 0
     },
     {
         "Name": "Sabrina Haas",
-        "Elo": 1427,
-        "Max_Elo": 1427,
+        "Elo": 1617,
+        "Max_Elo": 1617,
         "Games": 87,
         "Diff": 0
     },
     {
-        "Name": "Maria Krysin",
-        "Elo": 1388,
-        "Max_Elo": 1388,
-        "Games": 74,
-        "Diff": 0
-    },
-    {
         "Name": "Simon Haas",
-        "Elo": 1376,
-        "Max_Elo": 1376,
+        "Elo": 1580,
+        "Max_Elo": 1580,
         "Games": 42,
-        "Diff": 0
-    },
-    {
-        "Name": "Selina Holmer",
-        "Elo": 1364,
-        "Max_Elo": 1364,
-        "Games": 25,
-        "Diff": 0
-    },
-    {
-        "Name": "Kathrin Kronfeldner",
-        "Elo": 1329,
-        "Max_Elo": 1329,
-        "Games": 41,
-        "Diff": 0
-    },
-    {
-        "Name": "Jasmin Kerscher",
-        "Elo": 1117,
-        "Max_Elo": 1117,
-        "Games": 9,
         "Diff": 0
     }
 ]
