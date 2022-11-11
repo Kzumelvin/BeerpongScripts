@@ -23,15 +23,17 @@ i = 1
 
 # Download Player Data
 for player in spieler.all():
+    print(player)
     player_id = player["id"]
     player_aktiv = player["fields"]["Aktiv"]
     player_name = player["fields"]["Name"] 
     player_elo = player["fields"]["Elo_old"]
     player_games = player["fields"]["Spiele"]
+    player_max_elo = player["fields"]["All Time High Elo"]
     playerDict[player_id] = {
         "Name": player_name,
         "Elo": [],
-        "Max_Elo": 0,
+        "Max_Elo": player_max_elo,
         "Games": player_games,
         "Aktiv": player_aktiv
     }
@@ -73,7 +75,10 @@ for match in matchesArray:
 
 # Max Elo Berechnung
 for p in playerDict:
-    playerDict[p]["Max_Elo"] = max(playerDict[p]["Elo"])
+    if max(playerDict[p]["Elo"]) > playerDict[p]["Max_Elo"]:
+        playerDict[p]["Max_Elo"] = max(playerDict[p]["Elo"])
+    else:
+        continue
 
 # Json Liste
 rangliste = []
@@ -97,4 +102,4 @@ with open("singplayer_elo_ranking.json", "w") as jsonfile:
 if tournament == "" and AIRTABLE:
     for p in playerDict:
         spieler.update(p, {"Elo": playerDict[p]["Elo"][-1]})
-        spieler.update(p, {"Max_Elo": playerDict[p]["Max_Elo"]})
+        spieler.update(p, {"All Time High Elo": playerDict[p]["Max_Elo"]})
